@@ -1,6 +1,6 @@
 # Kubernetes and Cloud Native Associate (KCNA) example questions
 
-**WWhat core principle of cloud-native application delivery emphasizes treating infrastructure components and application deployments as disposable units replaced on update?**
+**What core principle of cloud-native application delivery emphasizes treating infrastructure components and application deployments as disposable units replaced on update?**
 
 - A. Statefulness
 - B. Mutability
