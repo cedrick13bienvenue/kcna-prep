@@ -31,3 +31,51 @@
 </details>
 
 ---
+
+**What is the primary goal of Continuous Integration (CI) in a CI/CD pipeline?**
+
+- A. To automatically deploy every code change directly to production..
+- B. To frequently merge code changes into a central repository and automatically build and test the application.
+- C. To manage the Git repository permissions for developers.
+- D. To provision the underlying infrastructure required for deployment.
+- E. To manually review code quality before merging.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
+
+**How does the declarative nature of Kubernetes manifests support cloud-native application delivery principles?**
+
+- A. By requiring developers to specify exact imperative commands for deployment.
+- B. By allowing users to define the desired state, leaving the how to the orchestrator's control loop.
+- C. By enforcing the use of specific programming languages for applications.
+- D. By automatically generating Git repositories for each application.
+- E. By integrating directly with billing systems for cost management.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
+
+**What is the role of a GitOps agent or operator (like Argo CD or Flux) running within the Kubernetes cluster?**
+
+- A. To build container images from source code committed to Git.
+- B. To run automated tests against application code in Git.
+- C. To continuously monitor the Git repository and reconcile the cluster state to match the desired state in Git.
+- D. To provide a web UI for developers to manually apply manifests to the cluster.
+- E. To manage user access control to the Git repository.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
