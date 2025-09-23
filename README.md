@@ -111,3 +111,35 @@
 </details>
 
 ---
+
+**In the "pull-based" GitOps model, where does the initiative for updating the cluster state originate?**
+
+- A. The CI server pushes changes directly to the Kubernetes API server.
+- B. The developer manually runs kubectl apply from their workstation.
+- C. The GitOps operator running inside the cluster pulls changes from the Git repository.
+- D. An external webhook triggers the update based on Git commits.
+- E. The Git repository pushes changes directly to the cluster nodes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**What is the primary function of a container registry (e.g., Docker Hub, Google Container Registry, Harbor) in the CI/CD process?**
+
+- A. To store source code repositories.
+- B. To run automated unit and integration tests.
+- C. To store and distribute container images built by the CI process.
+- D. To host Kubernetes manifest files declaratively defining deployments.
+- E. To manage DNS records for deployed applications.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
