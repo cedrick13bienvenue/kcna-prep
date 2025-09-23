@@ -79,3 +79,35 @@
 </details>
 
 ---
+
+**What distinguishes Continuous Delivery from Continuous Deployment within a CI/CD pipeline?**
+
+- A. Continuous Delivery involves manual testing; Continuous Deployment is fully automated.
+- B. Continuous Delivery deploys to production automatically; Continuous Deployment requires manual approval.
+- C. Continuous Delivery ensures code is always deployable; Continuous Deployment automatically deploys it.
+- D. Continuous Delivery focuses on infrastructure; Continuous Deployment focuses on application code.
+- E. Continuous Delivery uses Git; Continuous Deployment uses SVN.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**Why is a feedback loop important in cloud-native application delivery?**
+
+- A. It eliminates the need for version control systems like Git.
+- B. It ensures that only senior developers can deploy applications.
+- C. It provides visibility into the deployment process and application health, enabling quick response to issues.
+- D. It mandates the use of specific cloud providers for hosting.
+- E. It replaces the need for automated testing.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
