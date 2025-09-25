@@ -143,3 +143,19 @@
 </details>
 
 ---
+
+**What cloud-native delivery concept involves gradually shifting traffic from an old version of an application to a new version while monitoring performance?**
+
+- A. Blue/Green Deployment.
+- B. Rolling Update.
+- C. Canary Release.
+- D. A/B Testing.
+- E. To manage DNS records for deployed applications.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
