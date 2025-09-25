@@ -159,3 +159,21 @@
 </details>
 
 ---
+
+---
+
+**What benefit does GitOps provide regarding auditability and rollback?**
+
+- A. It eliminates the need for logging application events.
+- B. It relies on manual documentation stored outside Git for tracking changes.
+- C. Every change to the desired state is a Git commit, providing a full audit trail and easy rollback via git revert.
+- D. Rollbacks must be performed by directly modifying the live cluster state.
+- E. Audit trails are only available through proprietary third-party tools.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
