@@ -213,3 +213,19 @@
 </details>
 
 ---
+
+**WHow does the concept of "configuration drift" relate to GitOps?**
+
+- A. GitOps intentionally introduces configuration drift for flexibility.
+- B. Configuration drift is the desired outcome of a GitOps workflow.
+- C. GitOps aims to prevent or automatically correct configuration drift by continuously reconciling the cluster state with Git.
+- D. Configuration drift refers to changes made only within the Git repository.
+- E. GitOps requires manual intervention to detect configuration drift.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
