@@ -195,3 +195,21 @@
 </details>
 
 ---
+
+---
+
+**Which deployment strategy involves running two identical production environments, only one of which receives live traffic at any time?**
+
+- A. Canary Release.
+- B. Rolling Update.
+- C. Blue/Green Deployment.
+- D. Shadow Deployment.
+- E. Recreate Deployment.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
