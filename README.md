@@ -261,3 +261,19 @@
 </details>
 
 ---
+
+**What is a potential challenge or consideration when implementing GitOps?**
+
+- A. It makes rollbacks significantly more difficult than traditional methods.
+- B. It requires developers to have direct kubectl apply access to production clusters.
+- C. Managing secrets securely within a Git-based workflow requires careful handling (e.g., using sealed secrets, external secret managers).
+- D. It eliminates the need for any CI pipeline processes like building and testing.
+- E. It only works with specific proprietary Git hosting providers.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
