@@ -177,3 +177,21 @@
 </details>
 
 ---
+
+---
+
+**In a typical Kubernetes CI/CD pipeline, what stage usually occurs immediately after building the container image?**
+
+- A. Deploying the image to the production Kubernetes cluster.
+- B. Pushing the container image to a container registry.
+- C. Running end-to-end tests requiring a fully deployed environment.
+- D. Manually approving the release for deployment.
+- E. Configuring DNS records for the new application version.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
