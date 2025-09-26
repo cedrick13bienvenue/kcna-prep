@@ -229,3 +229,19 @@
 </details>
 
 ---
+
+**What role does automated testing (unit, integration, end-to-end) play in achieving reliable Continuous Delivery/Deployment?**
+
+- A. It slows down the delivery pipeline unnecessarily.
+- B. It provides the confidence needed to automate deployments by verifying application correctness at different levels.
+- C. It is only necessary for applications written in specific languages.
+- D. It replaces the need for monitoring and observability post-deployment.
+- E. It primarily focuses on testing the underlying Kubernetes infrastructure.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
