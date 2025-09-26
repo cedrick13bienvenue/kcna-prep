@@ -214,7 +214,7 @@
 
 ---
 
-**WHow does the concept of "configuration drift" relate to GitOps?**
+**How does the concept of "configuration drift" relate to GitOps?**
 
 - A. GitOps intentionally introduces configuration drift for flexibility.
 - B. Configuration drift is the desired outcome of a GitOps workflow.
