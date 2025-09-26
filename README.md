@@ -245,3 +245,19 @@
 </details>
 
 ---
+
+**Which practice aligns best with the principle of using declarative specifications for application delivery?**
+
+- A. Writing shell scripts that execute a series of kubectl commands to deploy.
+- B. Using Kubernetes manifests (YAML) stored in Git to define the desired application state.
+- C. Manually configuring applications through a graphical user interface after deployment.
+- D. Storing application configuration directly within container images.
+- E. Using SSH to log into nodes and manually start application processes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
