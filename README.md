@@ -293,3 +293,19 @@
 </details>
 
 ---
+
+**How does the concept of "least privilege" apply to GitOps operators?**
+
+- A. The operator should run with cluster-admin privileges for maximum flexibility.
+- B. The operator's permissions (e.g., via ServiceAccount and RBAC) should be scoped only to the resources it needs to manage.
+- C. Developers interacting with Git should have least privilege; the operator needs full access.
+- D. The operator should only have read-only access to the Git repository.
+- E. Least privilege only applies to CI/CD tools, not GitOps operators.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
