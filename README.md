@@ -277,3 +277,19 @@
 </details>
 
 ---
+
+**What is "pipeline-as-code" in the context of CI/CD?**
+
+- A. Writing application code directly within the CI/CD tool's UI.
+- B. Defining the CI/CD pipeline's stages, steps, and configuration using code stored in version control (e.g., Jenkinsfile, GitLab CI YAML).
+- C. Generating pipeline definitions automatically based on monitoring data.
+- D. A specific programming language used exclusively for writing CI/CD pipelines.
+- E. Storing pipeline execution logs as application code.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
