@@ -357,3 +357,19 @@
 </details>
 
 ---
+
+**What is a key benefit of automating application delivery pipelines?**
+
+- A. It increases the need for manual intervention and approvals at each stage.
+- B. It introduces more opportunities for human error during deployment.
+- C. It leads to faster, more reliable, and consistent deployments, enabling quicker feedback loops.
+- D. It makes the deployment process less transparent and harder to audit.
+- E. It primarily benefits only very small development teams.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
