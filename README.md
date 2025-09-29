@@ -453,3 +453,19 @@
 </details>
 
 ---
+
+**Can GitOps manage resources outside of Kubernetes (e.g., cloud databases, DNS records)?**
+
+- A. No, GitOps is strictly limited to managing Kubernetes API objects.
+- B. Yes, potentially, if using tools like Crossplane or Terraform controllers that extend the GitOps model to manage external resources.
+- C. Only if the external resources are manually synchronized with Git state.
+- D. No, managing external resources always requires a separate imperative process.
+- E. Yes, by storing credentials for cloud providers directly in Git manifests.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
