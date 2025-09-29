@@ -309,3 +309,19 @@
 </details>
 
 ---
+
+**What is the purpose of tools like Helm or Kustomize in Kubernetes application delivery?**
+
+- A. To replace the need for container image registries.
+- B. To provide runtime monitoring and alerting for applications.
+- C. To manage, template, and customize Kubernetes manifest files, simplifying complex deployments.
+- D. To automatically write application source code based on high-level requirements.
+- E. To enforce network security policies between Pods.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
