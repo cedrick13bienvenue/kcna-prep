@@ -427,11 +427,28 @@
 - A. Using latest triggers automatic rollbacks on failure.
 - B. The latest tag provides better caching performance in the container registry.
 - C. Updating a specific tag declaratively triggers a controlled rollout; latest doesn't reliably signal updates.
-- D. Using specific tags requires less storage space in Git.
+- D. The latest tag is not supported by most container registries.
+- E. Using specific tags requires less storage space in Git.
 
 <details><summary>Answer</summary>
 
 **Correct answer:** C
+
+</details>
+
+---
+
+**What does "Shift Left" mean in the context of security in application delivery?**
+
+- A. Moving security testing and considerations to the rightmost (production) stage of the pipeline.
+- B. Integrating security checks and practices earlier in the development lifecycle (e.g., in CI).
+- C. Assigning all security responsibilities solely to a dedicated security team.
+- D. Ignoring security concerns until after an application has been deployed.
+- E. Focusing security efforts only on the underlying infrastructure.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
 
 </details>
 
