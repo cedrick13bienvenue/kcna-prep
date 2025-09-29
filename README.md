@@ -469,3 +469,19 @@
 </details>
 
 ---
+
+**What is the purpose of a "smoke test" in a CD pipeline, often run immediately after deployment?**
+
+- A. To perform comprehensive end-to-end functional testing of all features.
+- B. To check the basic health and availability of the newly deployed application or service.
+- C. To run security vulnerability scans on the deployed application.
+- D. To gather detailed performance metrics under simulated heavy load.
+- E. To verify the configuration stored in the Git repository.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
