@@ -389,3 +389,19 @@
 </details>
 
 ---
+
+**What security practice should be integrated into a CI pipeline dealing with container images?**
+
+- A. Disabling all network access for the CI runner.
+- B. Storing plain-text API keys directly in the pipeline script.
+- C. Scanning container images for known vulnerabilities (CVEs) using tools like Trivy, Clair, or Snyk.
+- D. Granting the CI runner root privileges on the build host.
+- E. Bypassing all automated tests to speed up the build process.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
