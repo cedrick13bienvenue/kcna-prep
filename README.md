@@ -341,3 +341,19 @@
 </details>
 
 ---
+
+**What is the significance of using unique, immutable tags (e.g., Git SHA, semantic version) for container images in a CI/CD pipeline?**
+
+- A. It allows developers to overwrite existing tags like latest for simplicity.
+- B. It makes it difficult to track which version of the code is running in production.
+- C. It ensures that deployments are predictable and repeatable, always pulling the exact intended version of the image.
+- D. It reduces the storage space required in the container registry.
+- E. It is primarily for aesthetic purposes in dashboard displays.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
