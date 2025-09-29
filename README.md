@@ -325,3 +325,19 @@
 </details>
 
 ---
+
+**In a GitOps workflow, how are changes typically promoted across different environments (e.g., staging to production)?**
+
+- A. By directly modifying the live production cluster using kubectl.
+- B. By manually copying manifests from a staging directory to a production directory on a local machine.
+- C. By merging or promoting changes between branches or directories in the Git repository that represent different environments.
+- D. By re-running the entire CI pipeline with a "production" flag.
+- E. By configuring the GitOps operator to ignore environment differences.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
