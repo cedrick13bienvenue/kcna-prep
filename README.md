@@ -373,3 +373,19 @@
 </details>
 
 ---
+
+**If a discrepancy exists between the state defined in Git and the live cluster state, what is the expected behavior of a GitOps reconciliation loop?**
+
+- A. It sends an alert to the developer asking them to manually fix the cluster.
+- B. It automatically updates the Git repository to match the cluster state.
+- C. It detects the drift and takes action to modify the cluster state to match the desired state in Git.
+- D. It halts all further deployments until the discrepancy is manually resolved.
+- E. It ignores the discrepancy unless explicitly told to sync.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
