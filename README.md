@@ -405,3 +405,19 @@
 </details>
 
 ---
+
+**Which component is typically NOT considered part of a core GitOps workflow?**
+
+- A. A Git repository containing declarative manifests.
+- B. An automated mechanism to apply changes from Git to the cluster (Operator).
+- C. A mechanism to observe the cluster state and compare it with Git (Operator).
+- D. An imperative script run manually by developers to deploy applications.
+- E. A feedback mechanism reporting synchronization status.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
