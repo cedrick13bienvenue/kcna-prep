@@ -421,3 +421,18 @@
 </details>
 
 ---
+
+**In CI/CD for Kubernetes, why is it often better to update the image tag in a deployment manifest rather than using the latest tag?**
+
+- A. Using latest triggers automatic rollbacks on failure.
+- B. The latest tag provides better caching performance in the container registry.
+- C. Updating a specific tag declaratively triggers a controlled rollout; latest doesn't reliably signal updates.
+- D. Using specific tags requires less storage space in Git.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
