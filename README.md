@@ -501,3 +501,19 @@
 </details>
 
 ---
+
+**What is the relationship between Continuous Integration (CI) and GitOps?**
+
+- A. GitOps replaces the need for a CI server entirely.
+- B. CI builds artifacts (e.g., container images); GitOps often consumes these artifacts for deployment based on Git state.
+- C. CI is responsible for deploying manifests; GitOps is responsible for building images.
+- D. They are mutually exclusive approaches to application delivery.
+- E. GitOps is a specific tool used only within CI pipelines.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
