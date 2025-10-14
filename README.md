@@ -549,3 +549,19 @@
 </details>
 
 ---
+
+**What does a "release candidate" (RC) typically signify in a software release process?**
+
+- A. The final, generally available (GA) version of the software.
+- B. An unstable nightly build intended only for internal testing.
+- C. A version believed to be stable and potentially the final release, undergoing final testing.
+- D. A prototype version demonstrating initial concepts.
+- E. A security patch applied to a previous release.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
