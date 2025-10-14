@@ -485,3 +485,19 @@
 </details>
 
 ---
+
+**How does GitOps handle failed deployments or rollbacks compared to traditional methods?**
+
+- A. Rollbacks require complex manual intervention on the cluster.
+- B. Failures are ignored until the next successful Git commit.
+- C. Rollbacks are typically achieved by reverting the change in Git and letting the operator synchronize the cluster to the previous known good state.
+- D. Failed deployments automatically trigger a full cluster rebuild.
+- E. Rollbacks are not possible within a GitOps framework.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
