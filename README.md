@@ -517,3 +517,19 @@
 </details>
 
 ---
+
+**Which cloud-native principle supports the idea of automating infrastructure provisioning alongside application deployment?**
+
+- A. Infrastructure as Code (IaC)
+- B. Manual server configuration
+- C. Stateful application design
+- D. High latency tolerance.
+- E. Reactive programming
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
