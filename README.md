@@ -533,3 +533,19 @@
 </details>
 
 ---
+
+**In a pull-based GitOps model, how does the operator typically authenticate to the Git repository?**
+
+- A. Using the developer's personal Git credentials stored in a Secret.
+- B. Using SSH keys, deploy tokens, or access tokens configured specifically for the operator.
+- C. No authentication is required if the repository is public.
+- D. Using Kubernetes ServiceAccount tokens intended for API server access.
+- E. Authentication is handled by the CI server, not the operator.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
