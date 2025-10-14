@@ -581,3 +581,19 @@
 </details>
 
 ---
+
+**How does GitOps facilitate collaboration between development and operations teams?**
+
+- A. By requiring operations teams to manually approve every developer commit.
+- B. By providing separate Git repositories for developers and operators with no overlap.
+- C. By using a shared Git repository and pull requests as a common mechanism for proposing and reviewing infrastructure and application changes.
+- D. By eliminating the need for an operations team entirely.
+- E. By forcing developers to manage the underlying Kubernetes infrastructure.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
