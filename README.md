@@ -565,3 +565,19 @@
 </details>
 
 ---
+
+**What is a key benefit of decoupling application configuration from container images?**
+
+- A. It simplifies the container build process by including configuration directly.
+- B. It allows the same container image to be deployed across different environments with varying configurations.
+- C. It eliminates the need for version control for configuration.
+- D. It makes container images larger and slower to pull.
+- E. It prevents the use of Kubernetes ConfigMaps and Secrets.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
