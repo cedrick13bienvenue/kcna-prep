@@ -709,3 +709,19 @@
 </details>
 
 ---
+
+**What is a common trigger for a Continuous Integration pipeline?**
+
+- A. A schedule running once per week.
+- B. A manual button click by the project manager.
+- C. A code commit pushed to the version control repository (e.g., Git).
+- D. A new vulnerability discovered in a base image.
+- E. A successful deployment to the production environment.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
