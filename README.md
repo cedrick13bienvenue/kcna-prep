@@ -597,3 +597,19 @@
 </details>
 
 ---
+
+**What is the role of Helm in a GitOps workflow?**
+
+- A. Helm replaces the Git repository as the source of truth.
+- B. Helm is the GitOps operator that reconciles the cluster state.
+- C. Helm charts (stored in Git) can declaratively define the application, and GitOps tools deploy/manage Helm releases based on Git state.
+- D. Helm is used only for building container images within the CI pipeline.
+- E. Helm directly monitors application performance and triggers rollbacks.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
