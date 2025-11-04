@@ -693,3 +693,19 @@
 </details>
 
 ---
+
+**If using GitOps with multiple clusters (e.g., dev, staging, prod), how might configurations be managed efficiently?**
+
+- A. By maintaining completely separate, unrelated Git repositories for each cluster.
+- B. By using the exact same manifests for all clusters, ignoring differences.
+- C. Using tooling like Kustomize or Helm to manage base configurations and environment-specific overlays/values within a single or related Git repositories.
+- D. By manually applying changes to each cluster sequentially.
+- E. By running a different GitOps operator in each cluster with identical config.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
