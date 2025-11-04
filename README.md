@@ -645,3 +645,19 @@
 </details>
 
 ---
+
+**What is the "Application Definition" in a GitOps context?**
+
+- A. The source code of the application written by developers.
+- B. The container image stored in a registry.
+- C. The declarative configuration (e.g., K8s YAML, Helm Charts, Kustomize overlays) stored in Git defining the application deployment.
+- D. The documentation explaining how to use the application.
+- E. The results of the automated tests run in the CI pipeline.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
