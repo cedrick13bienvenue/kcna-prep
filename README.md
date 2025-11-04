@@ -677,3 +677,19 @@
 </details>
 
 ---
+
+**What is a key difference between kubectl apply and kubectl create? Why is apply often preferred in automated delivery pipelines?**
+
+- A. create updates existing resources; apply only creates new ones.
+- B. apply stores configuration locally; create stores it in the cluster.
+- C. apply performs a declarative update (merging changes); create fails if the resource already exists.
+- D. create is faster for large numbers of resources.
+- E. apply requires cluster-admin privileges; create does not.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
