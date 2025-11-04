@@ -629,3 +629,19 @@
 </details>
 
 ---
+
+**Which Kubernetes feature allows performing updates with zero downtime by incrementally replacing old Pods with new ones?**
+
+- A. StatefulSet update strategies.
+- B. Job completions.
+- C. Deployment rolling update strategy.
+- D. DaemonSet node affinity rules.
+- E. ResourceQuota limits.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
