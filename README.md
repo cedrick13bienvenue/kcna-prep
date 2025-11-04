@@ -613,3 +613,19 @@
 </details>
 
 ---
+
+**What does the "convergence" mean in the context of a GitOps reconciliation loop?**
+
+- A. The process of merging multiple Git branches into one.
+- B. The act of manually applying configuration changes to the cluster.
+- C. The process where the GitOps operator brings the actual cluster state into alignment with the desired state defined in Git.
+- D. The final stage of a CI pipeline where tests are run.
+- E. The point where application performance meets SLO targets.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
