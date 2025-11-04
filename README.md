@@ -661,3 +661,19 @@
 </details>
 
 ---
+
+**How do feature flags complement CI/CD and progressive delivery strategies like canary releases?**
+
+- A. Feature flags replace the need for CI/CD pipelines entirely.
+- B. Feature flags allow enabling/disabling application features at runtime without requiring a full redeployment.
+- C. Feature flags are used only for configuring infrastructure components.
+- D. Feature flags eliminate the need for version control systems.
+- E. Feature flags require manual code changes for every activation.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
