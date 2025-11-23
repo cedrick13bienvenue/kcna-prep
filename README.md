@@ -821,3 +821,19 @@
 </details>
 
 ---
+
+**What is the primary mechanism by which Prometheus collects metrics data from target applications or services?**
+
+- A. Targets push metrics to the Prometheus server via an agent.
+- B. Prometheus queries a central message bus where targets publish metrics.
+- C. Prometheus actively scrapes (pulls) metrics from HTTP endpoints exposed by the targets.
+- D. Targets write metrics directly to Prometheus's time-series database (TSDB).
+- E. Prometheus uses SNMP traps sent by the targets.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
