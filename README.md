@@ -789,3 +789,19 @@
 </details>
 
 ---
+
+**What is a key outcome of adopting mature CI/CD practices?**
+
+- A. Longer lead times for changes due to increased process overhead.
+- B. Reduced deployment frequency to minimize risk.
+- C. Faster, more reliable delivery of value to end-users through automation and rapid feedback.
+- D. Increased reliance on manual testing and deployment procedures.
+- E. Complete elimination of bugs in production environments.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
