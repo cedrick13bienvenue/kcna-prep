@@ -773,3 +773,19 @@
 </details>
 
 ---
+
+**How can secrets (e.g., API keys, passwords) be securely injected into Pods managed via GitOps without storing plain text in Git?**
+
+- A. By embedding secrets directly within the container image layers.
+- B. Using tools like Sealed Secrets (encrypts secrets in Git, decrypted by a controller in-cluster) or referencing external secret managers (e.g., Vault).
+- C. Storing secrets as plain text ConfigMaps in Git.
+- D. Passing secrets as command-line arguments to the GitOps operator.
+- E. Disabling secrets management entirely for simplicity.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
