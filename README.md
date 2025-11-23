@@ -757,3 +757,19 @@
 </details>
 
 ---
+
+**What is the role of idempotency in automated application delivery?**
+
+- A. Ensuring that operations always produce different results each time they are run.
+- B. Ensuring that performing the same operation multiple times produces the same result as performing it once.
+- C. Making sure that configuration files are stored only in memory.
+- D. Requiring manual intervention for every deployment step.
+- E. Idempotency relates only to database transaction management.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
