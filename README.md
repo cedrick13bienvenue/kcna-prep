@@ -741,3 +741,19 @@
 </details>
 
 ---
+
+**In a CI/CD context, what is static application security testing (SAST)?**
+
+- A. Analyzing running application behavior for security flaws.
+- B. Scanning container images for known vulnerabilities in dependencies.
+- C. Analyzing application source code or compiled binaries for security vulnerabilities without executing the code.
+- D. Performing penetration testing against a deployed application.
+- E. Checking firewall rules protecting the application.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
