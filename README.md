@@ -725,3 +725,19 @@
 </details>
 
 ---
+
+**Which factor is LEAST relevant when choosing between a pull-based and push-based GitOps approach?**
+
+- A. Security considerations regarding cluster API access.
+- B. The specific programming language used by the application being deployed.
+- C. Network policies restricting traffic flow between the CI system and the cluster.
+- D. Scalability requirements for managing many clusters.
+- E. The location of the Git repository relative to the cluster.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
