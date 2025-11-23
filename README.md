@@ -805,3 +805,19 @@
 </details>
 
 ---
+
+**Which of the three pillars of observability is best suited for understanding the end-to-end journey of a request as it traverses multiple microservices?**
+
+- A. Metrics
+- B. Logs
+- C. Traces (Distributed Tracing)
+- D. Events
+- E. Alerts
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
