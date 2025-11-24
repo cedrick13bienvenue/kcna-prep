@@ -885,3 +885,19 @@
 </details>
 
 ---
+
+**Which Kubernetes feature helps prevent individual workloads or namespaces from consuming excessive cluster resources, thereby aiding cost control?**
+
+- A. NetworkPolicy
+- B. ServiceAccount
+- C. ResourceQuota
+- D. Ingress
+- E. PodDisruptionBudget
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
