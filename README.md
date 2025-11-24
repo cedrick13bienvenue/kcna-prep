@@ -949,3 +949,19 @@
 </details>
 
 ---
+
+**What does "instrumentation" mean in the context of application observability?**
+
+- A. Automatically installing monitoring agents on application hosts.
+- B. Adding code to an application to generate and export telemetry data (logs, metrics, traces).
+- C. Configuring firewall rules to allow monitoring traffic.
+- D. Visualizing telemetry data in dashboards like Grafana.
+- E. Writing PromQL queries to analyze application performance.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
