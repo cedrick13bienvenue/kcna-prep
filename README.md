@@ -901,3 +901,19 @@
 </details>
 
 ---
+
+**What are the three main components (pillars) typically associated with observability in cloud-native systems?**
+
+- A. Performance, Scalability, Reliability
+- B. Logs, Metrics, Traces
+- C. Containers, Orchestration, Microservices
+- D. Authentication, Authorization, Auditing
+- E. CI/CD, GitOps, Infrastructure-as-Code
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
