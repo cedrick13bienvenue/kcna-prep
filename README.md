@@ -869,3 +869,19 @@
 </details>
 
 ---
+
+**What is the role of an "exporter" in the Prometheus ecosystem?**
+
+- A. To visualize Prometheus metrics in dashboards (like Grafana).
+- B. To push alerts from Prometheus to notification channels (like Slack).
+- C. To translate metrics from non-Prometheus native systems into the Prometheus format.
+- D. To store long-term Prometheus metrics data in remote storage.
+- E. To configure Prometheus scrape targets automatically.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
