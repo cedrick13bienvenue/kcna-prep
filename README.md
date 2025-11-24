@@ -837,3 +837,19 @@
 </details>
 
 ---
+
+**How can Kubernetes resource usage metrics (like CPU and memory consumption per Pod) directly inform cost management efforts?**
+
+- A. By automatically adjusting application code to be more efficient.
+- B. By providing data to identify over-provisioned resources and potential waste.
+- C. By enforcing strict network policies to reduce data transfer costs.
+- D. By predicting future cloud provider price changes.
+- E. By increasing the number of replicas for cost distribution.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
