@@ -853,3 +853,19 @@
 </details>
 
 ---
+
+**What distinguishes "observability" from traditional "monitoring"?**
+
+- A. Monitoring uses dashboards; Observability uses only logs.
+- B. Monitoring focuses on predefined metrics ("known unknowns"); Observability aims to infer system state from outputs ("unknown unknowns").
+- C. Observability is only applicable to serverless architectures; Monitoring is for VMs.
+- D. Monitoring relies on pulling metrics; Observability relies on pushing logs.
+- E. Observability replaces the need for alerting systems.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
