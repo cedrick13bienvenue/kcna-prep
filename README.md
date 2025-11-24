@@ -933,3 +933,19 @@
 </details>
 
 ---
+
+**Analyzing which type of observability data would be most effective in identifying inefficient database queries that contribute significantly to application latency and potentially cloud costs?**
+
+- A. Infrastructure metrics (CPU/Memory usage of the database Pod).
+- B. Distributed traces showing long durations for database spans within application requests.
+- C. Kubernetes event logs for the database deployment.
+- D. Network flow logs between the application and the database.
+- E. Security audit logs from the database server.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
