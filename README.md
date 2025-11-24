@@ -917,3 +917,19 @@
 </details>
 
 ---
+
+**In PromQL (Prometheus Query Language), what is the primary purpose of "labels"?**
+
+- A. To define the alert conditions for firing rules.
+- B. To specify the time duration for a query range.
+- C. To add dimensions (key-value pairs) to metrics for filtering, aggregation, and grouping.
+- D. To configure the scrape interval for specific targets.
+- E. To encrypt sensitive information within metric data.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
