@@ -1061,3 +1061,19 @@
 </details>
 
 ---
+
+**What type of Prometheus metric is most suitable for tracking a value that can arbitrarily increase or decrease, like the current number of active connections?"**
+
+- A. Counter
+- B. Gauge
+- C. Histogram
+- D. Summary
+- E. Info
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
