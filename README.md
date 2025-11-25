@@ -1013,3 +1013,19 @@
 </details>
 
 ---
+
+**Prometheus uses Service Discovery mechanisms (e.g., Kubernetes SD) primarily for what purpose?"**
+
+- A. To automatically discover TLS certificates for secure scraping.
+- B. To find and dynamically update the list of target endpoints it needs to scrape.
+- C. To discover available Grafana dashboards for visualization.
+- D. To determine which users are authorized to query metrics data.
+- E. To identify which version of Prometheus server is running.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
