@@ -1029,3 +1029,19 @@
 </details>
 
 ---
+
+**What is the concept of "showback" or "chargeback" in cloud cost management, often enabled by observability data?"**
+
+- A. Showing users the real-time stock price of the cloud provider.
+- B. Charging users based on the number of dashboards they create.
+- C. Allocating infrastructure costs back to the specific teams or applications that consumed the resources.
+- D. Showing developers feedback on their code quality based on metrics.
+- E. Charging a flat fee per namespace regardless of usage.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
