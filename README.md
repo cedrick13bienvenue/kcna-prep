@@ -1045,3 +1045,19 @@
 </details>
 
 ---
+
+**OpenTelemetry aims to standardize which parts of the observability pipeline?"**
+
+- A. Only the visualization layer (dashboards).
+- B. Only the long-term storage of metrics data.
+- C. The generation, collection, and export of telemetry data (APIs, SDKs, protocols).
+- D. Only the alerting and notification mechanisms.
+- E. The configuration format for Prometheus scrape jobs.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
