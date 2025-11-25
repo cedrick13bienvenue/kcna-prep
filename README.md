@@ -981,3 +981,19 @@
 </details>
 
 ---
+
+**How can tracking resource requests vs. actual usage for Pods help optimize Kubernetes cluster costs?**
+
+- A. It allows increasing requests to guarantee performance, regardless of cost.
+- B. It helps identify "stranded capacity" where allocated resources (requests) are consistently higher than usage, indicating potential savings.
+- C. It determines the best CNI plugin to use for reducing network latency.
+- D. It automatically selects the cheapest cloud provider region for deployment.
+- E. It increases the number of nodes to improve availability.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
