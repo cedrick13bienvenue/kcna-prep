@@ -1179,7 +1179,7 @@
 - A. By optimizing DNS resolution times within the cluster.
 - B. By identifying unexpected or excessive data transfer out of the cluster/cloud, which often incurs costs.
 - C. By improving the efficiency of the CNI plugin's IP address allocation.
-- By reducing the number of LoadBalancer services used.
+- D. By reducing the number of LoadBalancer services used.
 - E. By increasing the MTU size for Pod network interfaces.
 
 <details><summary>Answer</summary>
