@@ -1189,3 +1189,19 @@
 </details>
 
 ---
+
+**Jaeger and Zipkin are open-source tools commonly used in cloud-native environments. Which observability pillar are they primarily associated with?**
+
+- A. Metrics aggregation and storage.
+- B. Log collection and analysis.
+- C. Distributed Tracing backend and visualization.
+- D. Alerting and notification routing.
+- E. Service discovery configuration management.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
