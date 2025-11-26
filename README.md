@@ -1077,3 +1077,19 @@
 </details>
 
 ---
+
+**Why is tagging or labeling resources (e.g., Pods, Nodes, cloud resources) crucial for effective cost management in a shared cloud-native environment?**
+
+- A. It improves the performance of the Kubernetes scheduler.
+- B. It allows cost allocation and analysis based on specific teams, projects, or environments.
+- C. It automatically encrypts data associated with the tagged resources.
+- D. It enables the use of Vertical Pod Autoscaler (VPA).
+- E. It increases the fault tolerance of the control plane.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
