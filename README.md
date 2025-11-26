@@ -1141,3 +1141,19 @@
 </details>
 
 ---
+
+**What is a "Service Level Objective" (SLO) in the context of observability and SRE?**
+
+- A. A detailed log message indicating a service failure.
+- B. A contractual agreement with a cloud provider for uptime (SLA).
+- C. A specific, measurable target for a service's reliability or performance (e.g., 99.9% availability).
+- D. A dashboard showing real-time resource utilization.
+- E. An alert configured in Alertmanager.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
