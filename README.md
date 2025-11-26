@@ -1109,3 +1109,19 @@
 </details>
 
 ---
+
+**What does the rate() function in PromQL typically calculate?**
+
+- A. The total count of a metric over a time range.
+- B. The average value of a gauge metric over a time range.
+- C. The per-second average rate of increase for a counter metric over a time range.
+- D. The 95th percentile value of a histogram metric.
+- E. The current value of a metric label.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
