@@ -1125,3 +1125,19 @@
 </details>
 
 ---
+
+**Which strategy helps manage costs associated with persistent storage in Kubernetes?**
+
+- A. Using only hostPath volumes for all stateful applications.
+- B. Regularly reviewing PersistentVolumeClaim (PVC) usage and cleaning up unused volumes.
+- C. Disabling the Container Storage Interface (CSI) plugin.
+- D. Storing all application data within container images.
+- E. Setting storageClassName to a non-existent class.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
