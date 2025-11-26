@@ -1184,7 +1184,7 @@
 
 <details><summary>Answer</summary>
 
-**Correct answer:** C
+**Correct answer:** B
 
 </details>
 
