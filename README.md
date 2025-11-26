@@ -1157,3 +1157,19 @@
 </details>
 
 ---
+
+**What information does a Prometheus Histogram metric provide that a simple Gauge or Counter does not?**
+
+- A. The exact time when the metric last changed value.
+- B. The total number of times an event has occurred.
+- C. The distribution of observed values across a set of configurable buckets.
+- D. The current status (up/down) of the monitored target.
+- E. The geographic location of the monitored instance.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
