@@ -1093,3 +1093,19 @@
 </details>
 
 ---
+
+**Grafana is often used alongside Prometheus. What is Grafana's primary role in this context?**
+
+- A. To store long-term metrics data collected by Prometheus.
+- B. To generate alerts based on Prometheus metrics.
+- C. To provide data visualization and dashboarding for Prometheus metrics (and other sources).
+- D. To replace the Prometheus server for scraping targets.
+- E. To manage Prometheus configuration files.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
