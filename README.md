@@ -1205,3 +1205,19 @@
 </details>
 
 ---
+
+**What is the purpose of the job label automatically added by Prometheus during scraping?**
+
+- A. To identify the specific metric name being scraped.
+- B. To indicate the IP address and port of the scraped target.
+- C. To group targets belonging to the same scrape configuration (e.g., "kubernetes-pods").
+- D. To specify the data center location of the Prometheus server.
+- E. To store the timestamp of the last successful scrape.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
