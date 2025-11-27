@@ -1221,3 +1221,19 @@
 </details>
 
 ---
+
+**Which Kubernetes object can set default resource requests and limits for containers within a namespace if not specified in the Pod spec, indirectly aiding cost predictability?**
+
+- A. ConfigMap
+- B. Secret
+- C. LimitRange
+- D. HorizontalPodAutoscaler
+- E. MutatingWebhookConfiguration
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
