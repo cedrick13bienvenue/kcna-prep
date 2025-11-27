@@ -1301,3 +1301,19 @@
 </details>
 
 ---
+
+**How does Prometheus's remote_write feature contribute to observability?**
+
+- A. It allows Prometheus to scrape targets located in remote data centers.
+- B. It enables Prometheus to send alerts directly to remote notification systems.
+- C. It allows Prometheus to forward ingested metrics to long-term storage or other analysis systems.
+- D. It lets users remotely query Prometheus metrics via an API.
+- E. It configures remote Grafana instances automatically.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
