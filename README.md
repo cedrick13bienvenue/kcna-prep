@@ -1269,3 +1269,19 @@
 </details>
 
 ---
+
+**Tools like Kubecost or OpenCost integrate with Kubernetes and cloud providers primarily to achieve what?**
+
+- A. To automatically optimize application code for better performance.
+- B. To provide detailed cost allocation, monitoring, and optimization insights specific to Kubernetes workloads.
+- C. To replace the need for Prometheus and Grafana entirely.
+- D. To manage user authentication and RBAC policies within the cluster.
+- E. To deploy and manage CNI network plugins.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
