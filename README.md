@@ -1381,3 +1381,19 @@
 </details>
 
 ---
+
+**Which statement accurately describes structured logging?**
+
+- A. Writing logs only in binary format for performance.
+- B. Writing log entries as plain text strings with embedded timestamps.
+- C. Writing logs in a consistent, machine-readable format (e.g., JSON) with key-value pairs.
+- D. Only logging metrics data instead of event descriptions.
+- E. Encrypting all log messages before writing them to disk.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
