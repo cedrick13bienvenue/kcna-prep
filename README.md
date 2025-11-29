@@ -1413,3 +1413,19 @@
 </details>
 
 ---
+
+**How can FinOps principles, which emphasize cloud financial accountability, be applied within a Kubernetes environment?**
+
+- A. By giving developers unrestricted access to create cloud resources.
+- B. By focusing solely on reducing performance to minimize costs.
+- C. By integrating cost visibility (via observability) into engineering workflows and decision-making.
+- D. By manually approving every deployment to the cluster.
+- E. By using only open source software to avoid licensing fees.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
