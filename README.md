@@ -1365,3 +1365,19 @@
 </details>
 
 ---
+
+**When evaluating cloud costs, what is a key difference between "reserved instances" (RIs) or "savings plans" and "on-demand" pricing?**
+
+- A. On-demand instances offer better performance than RIs.
+- B. RIs provide significant discounts in exchange for a commitment to usage (e.g., 1 or 3 years).
+- C. On-demand pricing is only available for serverless functions.
+- D. RIs can only be used for Kubernetes control plane nodes.
+- E. On-demand instances have guaranteed availability; RIs do not.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
