@@ -1397,3 +1397,19 @@
 </details>
 
 ---
+
+**What problem does the Prometheus scrape_timeout configuration setting address?**
+
+- A. It limits how long Prometheus waits for Alertmanager to respond.
+- B. It defines the maximum duration Prometheus will wait for a target to respond during a scrape.
+- C. It sets the retention period for metrics data in the TSDB.
+- D. It controls how often Prometheus reloads its configuration file.
+- E. It limits the number of concurrent scrapes Prometheus can perform.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
