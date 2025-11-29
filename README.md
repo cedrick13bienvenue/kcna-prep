@@ -1429,3 +1429,19 @@
 </details>
 
 ---
+
+**What is a key challenge when collecting traces in high-throughput systems?**
+
+- A. Traces do not support capturing latency information.
+- B. Generating and storing trace data for every request can be resource-intensive and costly.
+- C. Traces cannot be correlated with logs or metrics.
+- D. Trace data cannot be visualized effectively.
+- E. Only specific programming languages support trace instrumentation.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
