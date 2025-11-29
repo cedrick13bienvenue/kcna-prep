@@ -1317,3 +1317,19 @@
 </details>
 
 ---
+
+**Allocating costs based on Namespace in Kubernetes is a common strategy. What is a prerequisite for this approach to be effective?**
+
+- A. All Pods must run with hostNetwork: true.
+- B. Resources (Pods, PVCs, Services) must be consistently deployed into appropriate team/application-specific Namespaces.
+- C. The cluster must use the Cluster Autoscaler.
+- D. All applications must be instrumented with OpenTelemetry.
+- E. Only LoadBalancer services should be used for external access.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
