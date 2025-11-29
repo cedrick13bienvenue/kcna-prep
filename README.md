@@ -1333,3 +1333,19 @@
 </details>
 
 ---
+
+**What is the primary goal of correlating different observability signals (e.g., linking a trace ID in logs to a specific distributed trace)?**
+
+- A. To reduce the storage cost of telemetry data.
+- B. To allow visualization of metrics in Grafana.
+- C. To provide a more complete context for troubleshooting by connecting related events across signals.
+- D. To replace the need for manual code instrumentation.
+- E. To standardize the format of log messages.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
