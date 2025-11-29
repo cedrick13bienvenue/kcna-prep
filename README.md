@@ -1349,3 +1349,19 @@
 </details>
 
 ---
+
+**What does the Prometheus Query Language (PromQL) primarily operate on?**
+
+- A. Raw log files stored on disk.
+- B. Relational database tables containing event data.
+- C. Time series data identified by metric names and key-value labels.
+- D. Distributed trace spans stored in Jaeger or Zipkin.
+- E. Kubernetes API object definitions (YAML).
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
