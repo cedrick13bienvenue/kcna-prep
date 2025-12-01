@@ -1461,3 +1461,19 @@
 </details>
 
 ---
+
+**Why is monitoring resource limits alongside usage and requests important for cost and stability?**
+
+- A. Limits directly determine the cost charged by the cloud provider.
+- B. High limit values guarantee better application performance.
+- C. Frequent throttling due to hitting CPU limits, or OOMKills due to hitting memory limits, indicate potential misconfiguration affecting stability and performance.
+- D. Limits prevent the Cluster Autoscaler from adding new nodes.
+- E. Limits are only relevant for stateful applications.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
