@@ -1477,3 +1477,19 @@
 </details>
 
 ---
+
+**What is the role of time-series data (metrics) in proactive observability?**
+
+- A. Primarily useful only for debugging specific past incidents.
+- B. Used to establish baselines, detect anomalies, and predict future trends or potential issues.
+- C. Only valuable when combined with distributed tracing data.
+- D. Cannot be used effectively for real-time alerting.
+- E. Replaced entirely by structured logging in modern systems.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
