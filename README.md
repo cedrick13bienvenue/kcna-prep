@@ -1525,3 +1525,19 @@
 </details>
 
 ---
+
+**Which observability pillar is typically the most voluminous and potentially most expensive to store and process?**
+
+- A. Metrics
+- B. Traces
+- C. Logs
+- D. Events
+- E. SLOs
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
