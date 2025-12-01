@@ -1445,3 +1445,19 @@
 </details>
 
 ---
+
+**If you see rapidly increasing cardinality for a specific Prometheus metric, what is a likely cause related to labels?**
+
+- A. The scrape interval for the metric's job is too short.
+- B. The metric name itself is changing frequently.
+- C. A label value associated with the metric is highly dynamic and unique per instance/request (e.g., user ID, Pod ID, timestamp).
+- D. The Alertmanager configuration is incorrect.
+- E. The remote_write endpoint is unavailable.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
