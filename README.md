@@ -1541,3 +1541,19 @@
 </details>
 
 ---
+
+**Besides the basic up metric, what is another common metric exposed by Prometheus exporters to indicate their own health or ability to collect data?**
+
+- A.exporter_scrape_duration_seconds or similar metrics about the scrape itself.
+- B. node_cpu_seconds_total exposed by node_exporter.
+- C. kube_pod_info exposed by kube-state-metrics.
+- D. http_requests_total from an application.
+- E. etcd_server_has_leader from etcd.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
