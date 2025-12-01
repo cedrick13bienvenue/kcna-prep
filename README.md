@@ -1493,3 +1493,19 @@
 </details>
 
 ---
+
+**When configuring Prometheus alerting rules, what is the purpose of the for clause?**
+
+- A. To specify the receiver for the alert (e.g., Slack channel).
+- B. To define the duration an alert condition must be true before the alert becomes firing.
+- C. To set the severity label for the alert (e.g., critical, warning).
+- D. To group multiple related alert conditions into a single rule.
+- E. To add annotations with contextual information to the alert.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
