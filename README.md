@@ -1509,3 +1509,19 @@
 </details>
 
 ---
+
+**What does "right-sizing" mean in the context of Kubernetes resource requests/limits and cost management?**
+
+- A. Always setting requests and limits to the maximum allowed values.
+- B. Setting requests and limits based on observed application usage patterns to avoid waste.
+- C. Using only the largest available node types in the cluster.
+- D. Disabling resource limits entirely for better performance.
+- E. Matching resource requests exactly to the node's capacity.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
