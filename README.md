@@ -1589,3 +1589,19 @@
 </details>
 
 ---
+
+**When Prometheus fails to scrape a target (e.g., due to network issues or the target being down), what value will the up metric for that target typically have?**
+
+- A. 1
+- B. -1
+- C. 0
+- D. NaN (Not a Number)
+- E. The metric will be absent (no data point recorded).
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
