@@ -1605,3 +1605,19 @@
 </details>
 
 ---
+
+**Which Kubernetes autoscaling mechanism adjusts the CPU and memory requests and limits of existing Pods based on historical usage data?**
+
+- A. Horizontal Pod Autoscaler (HPA)
+- B. Cluster Autoscaler (CA)
+- C. Vertical Pod Autoscaler (VPA)
+- D. Node Problem Detector (NPD)
+- E. Custom Pod Autoscaler (CPA)
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
