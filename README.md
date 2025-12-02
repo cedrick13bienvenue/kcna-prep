@@ -1573,3 +1573,19 @@
 </details>
 
 ---
+
+**What is a primary benefit of adopting standardized telemetry collection like OpenTelemetry?**
+
+- A. It guarantees that applications will have zero performance overhead from instrumentation.
+- B. It allows organizations to switch observability backends (e.g., Jaeger to Datadog) without re-instrumenting application code.
+- C. It automatically writes optimal PromQL queries for dashboards.
+- D. It eliminates the need for log rotation and retention policies.
+- E. It provides a single dashboard for all logs, metrics, and traces.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
