@@ -1637,3 +1637,19 @@
 </details>
 
 ---
+
+**What is the primary role of the Cloud Native Computing Foundation (CNCF)?**
+
+- A. To develop and sell commercial distributions of Kubernetes.
+- B. To define and enforce specific implementation details for cloud provider services.
+- C. To host and nurture open source projects, fostering collaboration in the cloud native ecosystem.
+- D. To directly manage the development lifecycle of the Linux kernel.
+- E. To certify individual developers as cloud native experts through exams only.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
