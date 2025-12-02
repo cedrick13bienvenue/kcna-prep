@@ -1621,3 +1621,19 @@
 </details>
 
 ---
+
+**What is the fundamental characteristic of a "Serverless" computing model from the developer's perspective?**
+
+- A. The complete absence of servers in the underlying infrastructure.
+- B. The ability to run code without managing or provisioning underlying servers or infrastructure.
+- C. The use of specialized hardware accelerators for function execution.
+- D. A pricing model based solely on CPU cycles consumed.
+- E. The requirement to write code only in specific languages like Node.js or Python.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
