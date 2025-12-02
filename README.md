@@ -1557,3 +1557,19 @@
 </details>
 
 ---
+
+**How can cloud provider cost explorers or billing dashboards be used in conjunction with Kubernetes observability tools?**
+
+- A. To replace the need for Prometheus monitoring within the cluster.
+- B. To get a high-level view of overall spend, which can then be correlated with granular usage data from Kubernetes tools.
+- C. To configure Kubernetes NetworkPolicies automatically based on cost.
+- D. To directly adjust Pod resource requests based on billing alerts.
+- E. To provide distributed tracing across cloud services.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
