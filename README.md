@@ -1669,3 +1669,19 @@
 </details>
 
 ---
+
+**Why are open standards like the OCI specifications (Image Format, Runtime) crucial for the health of the container ecosystem?**
+
+- A. They guarantee containers will run faster than virtual machines.
+- B. They enforce the use of a single vendor's container tools for consistency.
+- C. They promote interoperability and portability, preventing vendor lock-in and fostering innovation.
+- D. They eliminate the need for container security scanning.
+- E. They define the API specifications for Kubernetes itself.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
