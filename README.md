@@ -1653,3 +1653,19 @@
 </details>
 
 ---
+
+**In a typical cloud native environment, which persona is primarily focused on building and maintaining the underlying platform (e.g., Kubernetes cluster) itself?**
+
+- A. Application Developer
+- B. End User
+- C. Platform Engineer / Operator / SRE
+- D. Data Scientist
+- E. Business Analyst
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
