@@ -1733,3 +1733,19 @@
 </details>
 
 ---
+
+**Which persona is most likely to interact directly with kubectl daily to deploy, troubleshoot, and manage applications running on the Kubernetes platform?**
+
+- A. Platform Operator managing the cluster infrastructure.
+- B. Application Developer deploying and managing their specific microservices.
+- C. End User accessing the application through a web browser.
+- D. CNCF maintainer reviewing project proposals.
+- E. Security auditor reviewing RBAC policies.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
