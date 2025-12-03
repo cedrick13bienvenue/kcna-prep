@@ -1701,3 +1701,19 @@
 </details>
 
 ---
+
+**Which statement best describes Functions-as-a-Service (FaaS), a common implementation of serverless?**
+
+- A. A platform for running long-lived, stateful applications with persistent connections.
+- B. An architecture where applications are decomposed into large, independently deployable services.
+- C. A model for executing stateless, event-triggered code functions without managing server infrastructure.
+- D. A service that automatically converts monolithic applications into containerized microservices.
+- E. A managed Kubernetes offering from a cloud provider.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
