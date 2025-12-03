@@ -1717,3 +1717,19 @@
 </details>
 
 ---
+
+**What does it typically mean for a project to be "Graduated" within the CNCF?**
+
+- A. The project is no longer actively maintained or supported by the CNCF.
+- B. The project has just been accepted into the CNCF Sandbox stage.
+- C. The project has demonstrated widespread adoption, stability, and strong governance.
+- D. The project is mandated for use by all CNCF member companies.
+- E. The project's source code has been formally verified for security flaws.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
