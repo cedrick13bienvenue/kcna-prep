@@ -1685,3 +1685,19 @@
 </details>
 
 ---
+
+**The Horizontal Pod Autoscaler (HPA) in Kubernetes primarily makes scaling decisions based on what kind of information?**
+
+- A. Historical resource usage patterns over weeks.
+- B. The number of nodes currently available in the cluster.
+- C. Observed metrics like CPU utilization, memory usage, or custom metrics from Pods.
+- D. The declared priorityClassName of the Pods.
+- E. The size of the container images being used.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
