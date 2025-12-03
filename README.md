@@ -1749,3 +1749,19 @@
 </details>
 
 ---
+
+**The Container Network Interface (CNI) standard primarily addresses which aspect of container orchestration?**
+
+- A. Container image building and distribution.
+- B. Container runtime execution and lifecycle management.
+- C. Network connectivity and IP address management for containers/Pods.
+- D. Persistent storage provisioning and attachment for containers.
+- E. Security policy enforcement within containers.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
