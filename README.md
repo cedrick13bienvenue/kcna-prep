@@ -1781,3 +1781,19 @@
 </details>
 
 ---
+
+**What distinguishes serverless platforms (like Knative or FaaS) from traditional Platform-as-a-Service (PaaS) regarding scaling?**
+
+- A. PaaS cannot scale automatically; Serverless can.
+- B. Serverless platforms can typically scale down to zero instances when idle; PaaS often cannot.
+- C. PaaS scales based on node count; Serverless scales based on function memory size.
+- D. Serverless platforms only support vertical scaling; PaaS supports horizontal scaling.
+- E. PaaS requires manual intervention for all scaling operations.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
