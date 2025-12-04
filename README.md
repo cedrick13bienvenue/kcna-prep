@@ -1829,3 +1829,19 @@
 </details>
 
 ---
+
+**The Container Storage Interface (CSI) standard allows Kubernetes to support various storage systems. What is the main benefit of this standardization?**
+
+- A. It guarantees all CSI-compliant storage has the same performance characteristics.
+- B. It allows storage vendors to add support without modifying core Kubernetes code.
+- C. It eliminates the need for PersistentVolumes and PersistentVolumeClaims.
+- D. It provides a built-in data encryption layer for all storage types.
+- E. It defines the optimal way to structure data within a volume.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
