@@ -1765,3 +1765,19 @@
 </details>
 
 ---
+
+**What is the primary function of the Cluster Autoscaler (CA) in Kubernetes?**
+
+- A. To adjust the number of replicas for a Deployment based on CPU load.
+- B. To modify the resource requests/limits for Pods based on usage.
+- C. To add or remove worker nodes from the cluster based on Pod scheduling pressure.
+- D. To automatically update Kubernetes control plane components.
+- E. To balance network traffic evenly across all nodes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
