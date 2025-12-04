@@ -1877,3 +1877,19 @@
 </details>
 
 ---
+
+**How does the CNCF promote cloud native principles and best practices within the community?**
+
+- A. By mandating the use of specific programming languages for hosted projects.
+- B. By selling proprietary tools that enforce best practices.
+- C. Through publications (e.g., blog, reports), webinars, events (like KubeCon), and fostering collaboration.
+- D. By directly managing the infrastructure for all member companies.
+- E. By providing legally binding architectural blueprints.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
