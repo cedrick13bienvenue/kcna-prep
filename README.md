@@ -1813,3 +1813,19 @@
 </details>
 
 ---
+
+**An Application Developer using a cloud native platform is primarily concerned with which of the following?**
+
+- A. Managing etcd backups and restores for the cluster.
+- B. Writing application code, defining deployment manifests, and configuring CI/CD pipelines.
+- C. Patching the operating system on the cluster nodes.
+- D. Configuring the CNI plugin for optimal network performance.
+- E. Selecting the physical hardware for the worker nodes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
