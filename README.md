@@ -1797,3 +1797,19 @@
 </details>
 
 ---
+
+**What is the role of a CNCF Special Interest Group (SIG) or Technical Advisory Group (TAG)?**
+
+- A. To directly employ developers working on CNCF projects.
+- B. To provide commercial support contracts for CNCF software.
+- C. To provide technical leadership and coordinate efforts within specific domains or projects.
+- D. To vote on which projects should be accepted into the CNCF Sandbox.
+- E. To manage the financial budget of the CNCF.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
