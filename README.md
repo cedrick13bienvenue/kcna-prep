@@ -1845,3 +1845,19 @@
 </details>
 
 ---
+
+**When using Horizontal Pod Autoscaling (HPA) based on custom metrics, where does the HPA typically retrieve these metrics from?**
+
+- A. Directly from the kubelet on each node.
+- B. From the Kubernetes Metrics Server (focused on resource metrics).
+- C. From monitoring systems like Prometheus via the custom metrics API (k8s-prometheus-adapter).
+- D. By parsing application log files stored in etcd.
+- E. From annotations manually added to the Deployment manifest.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
