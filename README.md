@@ -1861,3 +1861,19 @@
 </details>
 
 ---
+
+**What does "event-driven" architecture, often associated with serverless functions, mean?**
+
+- A. Applications must be written using event sourcing patterns.
+- B. Code execution is triggered by the occurrence of specific events (e.g., HTTP request, message).
+- C. The platform uses events internally for scheduling, hidden from the user.
+- D. All application state must be stored within the event payload.
+- E. Only asynchronous communication patterns can be used.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
