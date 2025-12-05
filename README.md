@@ -1973,3 +1973,19 @@
 </details>
 
 ---
+
+**Consider the interaction between Application Developers and Platform Operators. What is a key aspect of their relationship in a healthy cloud native culture?**
+
+- A. Operators dictate the exact programming languages developers must use.
+- B. Developers have unrestricted root access to all cluster nodes for debugging.
+- C. Clear interfaces and responsibilities, with Operators providing a reliable platform for Developers.
+- D. Developers are solely responsible for patching the Kubernetes control plane.
+- E. Operators manually review every line of application code before deployment.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
