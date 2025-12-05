@@ -1989,3 +1989,19 @@
 </details>
 
 ---
+
+**The existence of multiple CNI (Container Network Interface) plugins (e.g., Calico, Flannel, Cilium) demonstrates what benefit of open standards?**
+
+- A. That CNI guarantees identical features across all network plugins.
+- B. That network configuration in Kubernetes is overly complex.
+- C. That standardization allows for choice and innovation in specific implementation areas.
+- D. That CNI plugins are only developed by the CNCF itself.
+- E. That network plugins are the least stable part of Kubernetes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
