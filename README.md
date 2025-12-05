@@ -1957,3 +1957,19 @@
 </details>
 
 ---
+
+**What is the significance of the CNCF Landscape (landscape.cncf.io)?**
+
+- A. It's the official source code repository for all CNCF projects.
+- B. It's a legally binding contract defining how member companies must use CNCF software.
+- C. It provides an interactive map categorizing and organizing projects within the cloud native ecosystem.
+- D. It's the primary tool used for deploying applications to Kubernetes clusters.
+- E. It's a real-time dashboard showing the operational status of CNCF projects.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
