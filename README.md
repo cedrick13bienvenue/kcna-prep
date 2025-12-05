@@ -1893,3 +1893,19 @@
 </details>
 
 ---
+
+**A Site Reliability Engineer (SRE) working with a Kubernetes platform would likely focus most on which area?**
+
+- A. Designing the user interface for end-user applications.
+- B. Automating platform operations, ensuring reliability/SLOs, and managing incident response.
+- C. Writing feature code for the core business applications running on the platform.
+- D. Defining the marketing strategy for the company's cloud native services.
+- E. Choosing which programming language application developers should use.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
