@@ -1925,3 +1925,19 @@
 </details>
 
 ---
+
+**If you need to automatically scale your Kubernetes cluster by adding/removing nodes based on overall resource pressure, which component is responsible?**
+
+- A. Horizontal Pod Autoscaler (HPA)
+- B. Vertical Pod Autoscaler (VPA)
+- C. Cluster Autoscaler (CA)
+- D. kube-scheduler
+- E. metrics-server
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
