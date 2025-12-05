@@ -1941,3 +1941,19 @@
 </details>
 
 ---
+
+**Which statement best describes the concept of "scale to zero" in serverless platforms?**
+
+- A. The platform uses zero resources when no functions are deployed.
+- B. Application instances are automatically removed when idle, consuming no resources.
+- C. Functions are limited to executing for zero seconds (instantaneous execution).
+- D. The platform requires zero configuration from the developer to deploy functions.
+- E. Only zero-cost open source serverless platforms support this feature.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
