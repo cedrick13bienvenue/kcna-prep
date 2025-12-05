@@ -1909,3 +1909,19 @@
 </details>
 
 ---
+
+**Why is the standardization provided by specifications like CRI (Container Runtime Interface) important for Platform Operators/SREs?**
+
+- A. It allows them to use docker build commands to manage runtime configuration.
+- B. It simplifies the process of writing application code for developers.
+- C. It gives them flexibility to choose/swap runtimes without disrupting Kubernetes functionality.
+- D. It guarantees that all container runtimes will have identical performance.
+- E. It eliminates the need for managing worker nodes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
