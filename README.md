@@ -2085,3 +2085,19 @@
 </details>
 
 ---
+
+**Can Vertical Pod Autoscaler (VPA) and Horizontal Pod Autoscaler (HPA) be safely used together on the same workload for CPU/memory scaling?**
+
+- A. Yes, they work seamlessly together by default.
+- B. No, they are fundamentally incompatible and will conflict.
+- C. It's generally discouraged or requires careful configuration, as they can interfere with each other.
+- D. Yes, but only if the Cluster Autoscaler is also enabled.
+- E. VPA automatically disables HPA when applied to the same workload.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
