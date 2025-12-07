@@ -2101,3 +2101,19 @@
 </details>
 
 ---
+
+**What is a potential drawback or challenge associated with serverless FaaS architectures compared to traditional long-running services?**
+
+- A. Significantly higher infrastructure costs when constantly busy.
+- B. Difficulty in achieving automatic scaling.
+- C. Lack of support for common programming languages.
+- D. Cold starts (latency introduced when invoking an idle function).
+- E. Inability to integrate with other cloud services.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
