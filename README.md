@@ -2037,3 +2037,19 @@
 </details>
 
 ---
+
+**How does CNCF governance typically handle decision-making for technical directions within its hosted projects?**
+
+- A. Decisions are made solely by the original creators of the project.
+- B. Decisions are dictated by the CNCF governing board based on member votes.
+- C. Through community consensus, meritocracy, and processes defined by project-specific governance (e.g., SIGs, maintainers).
+- D. Based on the highest bidder among commercial vendors supporting the project.
+- E. Following directives from the Linux Foundation technical board.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
