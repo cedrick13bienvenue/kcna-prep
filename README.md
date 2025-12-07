@@ -2053,3 +2053,19 @@
 </details>
 
 ---
+
+**A key responsibility of a Platform Operator/SRE is managing the "control plane" of the cloud native platform. What does this typically entail?**
+
+- A. Developing the user interface for business applications.
+- B. Ensuring the availability, performance, and security of Kubernetes core components (API server, etcd, etc.).
+- C. Writing unit tests for application microservices.
+- D. Defining the product roadmap for end-user features.
+- E. Onboarding new application development teams.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
