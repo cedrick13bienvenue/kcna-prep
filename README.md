@@ -2069,3 +2069,19 @@
 </details>
 
 ---
+
+**What problem does the Service Mesh Interface (SMI) specification aim to address?**
+
+- A. The lack of service mesh options available for Kubernetes.
+- B. The difficulty in installing service mesh control planes.
+- C. The need for a standard interface for interacting with different service meshes on Kubernetes.
+- D. The inability of service meshes to handle non-HTTP traffic.
+- E. The high performance overhead associated with service mesh sidecars.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
