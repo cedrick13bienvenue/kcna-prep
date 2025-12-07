@@ -2021,3 +2021,19 @@
 </details>
 
 ---
+
+**Which is NOT a typical characteristic often associated with serverless architectures (especially FaaS)?**
+
+- A. Stateless function execution (state managed externally).
+- B. Short-lived execution durations for functions.
+- C. Built-in requirement for managing complex state within the function instance itself.
+- D. Event-driven triggers (e.g., HTTP, queues, storage events).
+- E. Automatic scaling based on demand (including scale-to-zero).
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
