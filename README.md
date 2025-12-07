@@ -2005,3 +2005,19 @@
 </details>
 
 ---
+
+**You have a stateless web application deployed using a Kubernetes Deployment. Traffic fluctuates significantly. You want to automatically adjust the number of Pods based on average CPU utilization. Which tool is most appropriate?**
+
+- A. Cluster Autoscaler (CA)
+- B. Vertical Pod Autoscaler (VPA)
+- C. Horizontal Pod Autoscaler (HPA) configured with a CPU utilization target.
+- D. Manually adjusting the replicas field in the Deployment manifest.
+- E. Using a DaemonSet instead of a Deployment.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
