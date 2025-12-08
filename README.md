@@ -2149,3 +2149,19 @@
 </details>
 
 ---
+
+**What is the value proposition of having a standardized interface like CSI (Container Storage Interface) for Application Developers?**
+
+- A. They need to learn the specific API of every storage vendor their platform might use.
+- B. They can request and consume storage using consistent Kubernetes objects (PVC) regardless of the backend.
+- C. They are responsible for writing and maintaining CSI drivers for their applications.
+- D. They no longer need to consider storage performance requirements.
+- E. They must use hostPath volumes for all persistent data.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
