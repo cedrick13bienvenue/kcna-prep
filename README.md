@@ -2197,3 +2197,19 @@
 </details>
 
 ---
+
+**What is the purpose of the CNCF Artifact Hub?**
+
+- A. To store source code for all CNCF projects.
+- B. To provide a centralized web UI for finding and discovering cloud native packages and artifacts.
+- C. To run performance benchmarks on different Kubernetes distributions.
+- D. To manage user authentication and authorization for CNCF services.
+- E. To host container images for public use.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
