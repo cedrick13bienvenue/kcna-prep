@@ -2117,3 +2117,19 @@
 </details>
 
 ---
+
+**The "DevOps" culture is central to cloud native paradigms. What core principle does DevOps emphasize?**
+
+- A. Complete separation of development and operations teams and responsibilities.
+- B. Prioritizing feature development speed over operational stability.
+- C. Collaboration, shared responsibility, and automation between development and operations.
+- D. Replacing operations teams entirely with automated tools managed by developers.
+- E. Focusing solely on infrastructure automation, ignoring application development.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
