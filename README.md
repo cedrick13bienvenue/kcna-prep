@@ -2229,3 +2229,19 @@
 </details>
 
 ---
+
+**The OpenTelemetry project, hosted by CNCF, aims to standardize which aspect of cloud native applications?**
+
+- A. Container image formats and runtime execution.
+- B. Service mesh configuration and traffic management APIs.
+- C. Generation, collection, and export of telemetry data (traces, metrics, logs).
+- D. Persistent storage provisioning and volume lifecycle management.
+- E. User authentication and authorization protocols.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
