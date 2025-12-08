@@ -2165,3 +2165,19 @@
 </details>
 
 ---
+
+**When might using the Cluster Autoscaler lead to increased costs if not carefully managed?**
+
+- A. If it scales down nodes too aggressively, causing workload disruption.
+- B. If it frequently adds new nodes for short-lived Pods that could have waited.
+- C. If it only uses the smallest available instance types from the cloud provider.
+- D. If it conflicts with Horizontal Pod Autoscaler settings.
+- E. If it disables node monitoring and alerting.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
