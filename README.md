@@ -2213,3 +2213,19 @@
 </details>
 
 ---
+
+**Why is understanding the different personas (Developer, Operator, etc.) important when designing a cloud native platform or process?**
+
+- A. It helps determine the pricing model for the platform.
+- B. It ensures the platform only uses CNCF Graduated projects.
+- C. It allows tailoring tools, interfaces, and automation to meet the specific needs and workflows of each role.
+- D. It dictates the programming language used for building the platform itself.
+- E. It's primarily a marketing exercise with little technical impact.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
