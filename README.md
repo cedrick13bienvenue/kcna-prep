@@ -2133,3 +2133,19 @@
 </details>
 
 ---
+
+**Who is the primary consumer/beneficiary of a well-maintained internal cloud native platform built by Platform Engineers?**
+
+- A. The CNCF governing board.
+- B. End users accessing the company's external website.
+- C. Application Development teams building and deploying services.
+- D. Competing companies in the same industry.
+- E. The company's finance department managing cloud spend.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
