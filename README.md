@@ -2181,3 +2181,19 @@
 </details>
 
 ---
+
+**Besides FaaS, what other types of services sometimes fall under the "serverless" umbrella?**
+
+- A. Managed databases, messaging queues, and API gateways that auto-scale and abstract infrastructure.
+- B. Traditional virtual machines with pay-as-you-go pricing.
+- C. Bare-metal servers provisioned via an API.
+- D. On-premises Kubernetes clusters managed using GitOps.
+- E. Desktop applications deployed via MSI installers.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
