@@ -2293,3 +2293,19 @@
 </details>
 
 ---
+
+**From a Platform Operator's perspective, what is a major benefit of Application Developers adhering to standardized logging formats and exposing Prometheus metrics?**
+
+- A. It reduces the number of programming languages the Operator needs to support.
+- B. It simplifies the setup and maintenance of centralized observability and monitoring systems.
+- C. It eliminates the need for Kubernetes RBAC policies.
+- D. It guarantees that applications will be completely bug-free.
+- E. It allows Operators to directly modify application source code.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
