@@ -2245,3 +2245,19 @@
 </details>
 
 ---
+
+**Which autoscaling component would be most directly impacted by poorly configured Pod readiness/liveness probes?**
+
+- A. Cluster Autoscaler (CA)
+- B. Vertical Pod Autoscaler (VPA)
+- C. Horizontal Pod Autoscaler (HPA)
+- D. Kubernetes Scheduler (kube-scheduler)
+- E. metrics-server
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
