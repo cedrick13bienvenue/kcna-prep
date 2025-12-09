@@ -2309,3 +2309,19 @@
 </details>
 
 ---
+
+**What core principle do standards like OCI, CRI, CNI, and CSI all enable within the Kubernetes ecosystem?**
+
+- A. Reduced complexity for application developers writing business logic.
+- B. Improved performance compared to non-standardized components.
+- C. Modularity and interchangeability of components, fostering choice and innovation.
+- D. Automatic security patching for all involved components.
+- E. Consolidation of all functions into the kubelet binary.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
