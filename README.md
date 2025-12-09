@@ -2261,3 +2261,19 @@
 </details>
 
 ---
+
+**What key operational burden is significantly reduced by adopting serverless FaaS compared to running the same code in containers on Kubernetes?**
+
+- A. Writing Dockerfiles and building container images.
+- B. Managing the underlying compute instances, OS patching, and runtime updates.
+- C. Defining Kubernetes Service and Ingress resources.
+- D. Implementing application-level logging and monitoring.
+- E. Managing source code in a version control system like Git.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
