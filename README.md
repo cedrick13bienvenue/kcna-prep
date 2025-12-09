@@ -2277,3 +2277,19 @@
 </details>
 
 ---
+
+**What is the relationship between the Linux Foundation (LF) and the Cloud Native Computing Foundation (CNCF)?**
+
+- A. They are direct competitors offering similar services.
+- B. CNCF is the parent organization, and LF is one of its projects.
+- C. LF is the parent non-profit foundation, and CNCF is a sub-foundation focused on cloud native.
+- D. They are completely unrelated organizations.
+- E. CNCF manages Linux kernel development; LF manages cloud native projects.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
