@@ -2325,3 +2325,19 @@
 </details>
 
 ---
+
+**If VPA is configured in "recommendation" mode (updateMode: "Off"), what does it do?**
+
+- A. It automatically adjusts Pod resource requests/limits based on usage.
+- B. It scales the number of Pod replicas based on its recommendations.
+- C. It generates recommendations for resource requests/limits but does not apply them automatically.
+- D. It adds or removes cluster nodes based on resource recommendations.
+- E. It disables itself and provides no recommendations.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
