@@ -2421,3 +2421,19 @@
 </details>
 
 ---
+
+**The Container Runtime Interface (CRI) in Kubernetes serves what key purpose?**
+
+- A. To define the standard for container image formats.
+- B. To provide an API for kubelet to interact with different container runtimes.
+- C. To manage network plugin configurations (CNI).
+- D. To enforce security policies for container execution.
+- E. To schedule containers onto nodes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
