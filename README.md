@@ -2357,3 +2357,19 @@
 </details>
 
 ---
+
+**What is a key characteristic of successful open source governance, as promoted by organizations like the CNCF?**
+
+- A. Centralized control by a single sponsoring company.
+- B. Lack of clear processes for contribution or decision-making.
+- C. Transparency, community participation, and clear contribution/leadership paths.
+- D. Frequent changes in project licensing terms.
+- E. Closed-door meetings for all technical decisions.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
