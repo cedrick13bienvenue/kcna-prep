@@ -2389,3 +2389,19 @@
 </details>
 
 ---
+
+**The rise of cloud native architectures has emphasized "Immutable Infrastructure". What does this principle mean in the context of deployments?**
+
+- A. Infrastructure components are never patched or updated once deployed.
+- B. Deployments are updated by creating new instances (e.g., containers, VMs) rather than modifying existing ones.
+- C. Only specific approved vendors can provide infrastructure components.
+- D. Infrastructure configuration is stored in mutable databases.
+- E. All infrastructure must run in a single availability zone for consistency.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
