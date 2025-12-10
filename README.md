@@ -2341,3 +2341,19 @@
 </details>
 
 ---
+
+**Knative is a popular open source project often associated with serverless on Kubernetes. What core capabilities does Knative Serving provide?**
+
+- A. Persistent block storage management for functions.
+- B. A framework for building complex stateful workflows.
+- C. Request-driven compute with autoscaling (including scale-to-zero) for deploying containers.
+- D. A distributed database optimized for serverless workloads.
+- E. A graphical user interface for managing Kubernetes clusters.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
