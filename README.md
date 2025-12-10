@@ -2373,3 +2373,19 @@
 </details>
 
 ---
+
+**An End User of a cloud native application interacts with the system differently than a Developer or Operator. What is the End User's primary interaction?**
+
+- A. Pushing code commits to a Git repository.
+- B. Configuring monitoring alerts for application performance.
+- C. Using the application's interface (e.g., web UI, mobile app) to consume its functionality.
+- D. Provisioning new nodes for the Kubernetes cluster.
+- E. Writing Kubernetes YAML manifests.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
