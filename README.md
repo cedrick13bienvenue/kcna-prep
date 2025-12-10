@@ -2405,3 +2405,19 @@
 </details>
 
 ---
+
+**What is a primary motivation for adopting container orchestration beyond simply running containers with a runtime like containerd?**
+
+- A. To achieve higher density of containers on a single host.
+- B. To automate deployment, scaling, healing, and networking of distributed applications.
+- C. To simplify the process of building container images from source code.
+- D. To provide a standardized container image format for portability.
+- E. To enforce strict kernel isolation between containers.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
