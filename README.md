@@ -2437,3 +2437,19 @@
 </details>
 
 ---
+
+**In Kubernetes RBAC, what is the difference between a Role and a ClusterRole?**
+
+- A. Role grants permissions to users, ClusterRole to ServiceAccounts.
+- B. Role is for read-only access, ClusterRole for write access.
+- C. Role is namespaced, ClusterRole is cluster-wide.
+- D. Role defines permissions, ClusterRole binds permissions to subjects.
+- E. Role is for built-in components, ClusterRole for custom resources.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
