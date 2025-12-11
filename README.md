@@ -2501,3 +2501,19 @@
 </details>
 
 ---
+
+**How does container orchestration typically facilitate "self-healing" for applications?**
+
+- A. By automatically applying security patches to container images.
+- B. By using AI to predict and prevent application failures.
+- C. By monitoring application health and automatically restarting or replacing failed instances.
+- D. By providing detailed debugging tools for developers to fix application bugs faster.
+- E. By load balancing traffic away from nodes with high CPU usage.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
