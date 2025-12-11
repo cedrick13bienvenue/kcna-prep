@@ -2469,3 +2469,19 @@
 </details>
 
 ---
+
+**What fundamental problem does a Service Mesh aim to solve for microservices that is not inherently addressed by basic Kubernetes Services?**
+
+- A. Providing stable IP addresses for Pods.
+- B. Exposing services to external traffic via HTTP/S routing.
+- C. Adding advanced observability, security (mTLS), and traffic control between services.
+- D. Managing persistent storage for stateful applications.
+- E. Automating the build and deployment of container images.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
