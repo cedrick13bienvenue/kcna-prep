@@ -2533,3 +2533,19 @@
 </details>
 
 ---
+
+**What is the primary purpose of a ServiceAccount in Kubernetes security?**
+
+- A. To provide an identity for human users to log into the cluster.
+- B. To define permissions for accessing Kubernetes API resources.
+- C. To provide a distinct identity for processes running inside Pods to interact with the API.
+- D. To securely store API tokens and certificates for external services.
+- E. To encrypt network traffic between Pods.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
