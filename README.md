@@ -2517,3 +2517,19 @@
 </details>
 
 ---
+
+**Which of these is a direct responsibility of an OCI-compliant container runtime like containerd?**
+
+- A. Scheduling containers across a cluster of machines.
+- B. Managing the lifecycle of containers on a single host (create, start, stop, delete).
+- C. Defining the desired state of application deployments.
+- D. Providing inter-service authentication using mTLS.
+- E. Allocating persistent storage volumes from cloud providers.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
