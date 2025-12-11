@@ -2549,3 +2549,19 @@
 </details>
 
 ---
+
+**What role does the Container Network Interface (CNI) play in Kubernetes networking?**
+
+- A. It defines the API for how kube-proxy implements Services.
+- B. It provides a specification for writing plugins to configure network interfaces for Pods.
+- C. It manages DNS resolution for Services and Pods within the cluster.
+- D. It enforces network policies to restrict traffic flow between Pods.
+- E. It provides a secure tunnel for control plane communication.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
