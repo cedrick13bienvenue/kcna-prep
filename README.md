@@ -2453,3 +2453,19 @@
 </details>
 
 ---
+
+**Which Kubernetes networking component is responsible for ensuring that traffic sent to a Service's IP address is correctly routed to one of its backing Pods?**
+
+- A. CNI plugin
+- B. kube-dns / CoreDNS
+- C. kube-proxy
+- D. Ingress controller
+- E. The API server's endpoint controller.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
