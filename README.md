@@ -2485,3 +2485,19 @@
 </details>
 
 ---
+
+**What is the role of a PersistentVolumeClaim (PVC) in Kubernetes storage?**
+
+- A. It defines a specific type of storage backend (e.g., SSD, HDD).
+- B. It represents a piece of provisioned storage available in the cluster.
+- C. It is a request for storage by a user/Pod, consuming a PersistentVolume.
+- D. It directly attaches a node's local disk to a Pod.
+- E. It manages the lifecycle of storage snapshots.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
