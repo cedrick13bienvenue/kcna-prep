@@ -2629,3 +2629,19 @@
 </details>
 
 ---
+
+**When a NetworkPolicy in Kubernetes selects a Pod, what does it primarily control?**
+
+- A. The Pod's ability to access external services outside the cluster.
+- B. The amount of network bandwidth the Pod can consume.
+- C. The ingress and egress network traffic for that Pod at L3/L4.
+- D. The DNS resolution behavior for the Pod.
+- E. The encryption of data in transit for the Pod.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
