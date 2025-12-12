@@ -2645,3 +2645,19 @@
 </details>
 
 ---
+
+**What is the primary mechanism for service discovery within a Kubernetes cluster for applications running in Pods?**
+
+- A. Manually configuring IP addresses in application code.
+- B. Using NodePort services and node IPs.
+- C. Kubernetes DNS (e.g., CoreDNS) resolving Service names to ClusterIPs.
+- D. Broadcasting service availability via UDP multicast.
+- E. Relying on a Service Mesh sidecar proxy.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
