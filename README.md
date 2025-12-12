@@ -2613,3 +2613,19 @@
 </details>
 
 ---
+
+**What is the significance of the dockershim component being removed from Kubernetes starting from v1.24?**
+
+- A. Kubernetes no longer supports Docker-formatted container images.
+- B. Developers must use a different command-line tool instead of docker build.
+- C. Kubernetes now directly uses container runtimes that implement CRI, like containerd.
+- D. All existing Docker containers must be rebuilt using a new OCI tool.
+- E. Pods can no longer run multiple containers.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
