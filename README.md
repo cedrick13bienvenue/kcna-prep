@@ -2661,3 +2661,19 @@
 </details>
 
 ---
+
+**If a company wants to implement zero-trust security for inter-service communication within their Kubernetes cluster, what would a Service Mesh primarily contribute?**
+
+- A. Encrypting persistent data at rest.
+- B. Enforcing strong authentication and authorization for kubectl users.
+- C. Providing automatic mutual TLS (mTLS) between all services in the mesh.
+- D. Scanning Pods for known vulnerabilities.
+- E. Managing firewall rules at the cluster's edge.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
