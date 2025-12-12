@@ -2565,3 +2565,19 @@
 </details>
 
 ---
+
+**Which feature is typically NOT offered as a core capability by a Service Mesh?**
+
+- A. Automatic mTLS encryption between services.
+- B. Fine-grained traffic routing (e.g., canary deployments, A/B testing).
+- C. Distributed tracing and observability metrics for inter-service communication.
+- D. Container image vulnerability scanning.
+- E. Resiliency features like retries and timeouts.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
