@@ -2581,3 +2581,19 @@
 </details>
 
 ---
+
+**What is the primary function of a StorageClass in Kubernetes?**
+
+- A. To directly provide storage to a Pod.
+- B. To define different "classes" or types of storage for dynamic provisioning.
+- C. To claim a specific PersistentVolume for use.
+- D. To backup and restore data from PersistentVolumes.
+- E. To limit the amount of storage a namespace can consume.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
