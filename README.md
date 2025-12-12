@@ -2597,3 +2597,19 @@
 </details>
 
 ---
+
+**How does declarative configuration, a common feature in container orchestration, improve system reliability compared to imperative commands?**
+
+- A. It executes commands faster.
+- B. It allows users to specify the exact sequence of operations for desired outcomes.
+- C. It describes the desired state, allowing the orchestrator to continuously reconcile.
+- D. It requires less YAML or JSON to define resources.
+- E. It automatically selects the most performant hardware.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
