@@ -2693,3 +2693,19 @@
 </details>
 
 ---
+
+**Which of these is NOT a typical benefit of using a container orchestrator for managing applications?**
+
+- A. Improved resource utilization through bin packing.
+- B. Simplified application code logic for handling infrastructure failures.
+- C. Abstracted underlying infrastructure differences.
+- D. Automatic conversion of monolithic applications to microservices.
+- E. Enhanced scalability and availability of applications.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
