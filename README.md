@@ -2677,3 +2677,19 @@
 </details>
 
 ---
+
+**The Container Storage Interface (CSI) was developed to address what challenge in Kubernetes storage?**
+
+- A. To provide a standard for defining StorageClass parameters.
+- B. To enable third-party storage vendors to develop plugins without modifying core Kubernetes code.
+- C. To improve the performance of hostPath volumes.
+- D. To automate the backup and restore of PersistentVolumes.
+- E. To define how containers should access configuration data.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
