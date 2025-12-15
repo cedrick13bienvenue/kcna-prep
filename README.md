@@ -2725,3 +2725,19 @@
 </details>
 
 ---
+
+**What is the primary purpose of Secrets in Kubernetes, and how are they typically made available to Pods?**
+
+- A. To store arbitrary non-sensitive configuration; as environment variables or files.
+- B. To store sensitive data (e.g., passwords, tokens); as environment variables or volume mounts.
+- C. To define network policies; applied directly by kubelet.
+- D. To store TLS certificates for Ingress; only used by Ingress controllers.
+- E. To store container image pull credentials; only used by kubelet.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
