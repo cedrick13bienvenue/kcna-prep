@@ -2757,3 +2757,19 @@
 </details>
 
 ---
+
+**In the context of a Service Mesh, what does "traffic splitting" commonly refer to?**
+
+- A. Dividing network bandwidth equally among all services.
+- B. Routing a percentage of traffic to different versions of a service (e.g., for canary).
+- C. Encrypting only a portion of the traffic between services.
+- D. Splitting large data packets into smaller frames for transmission.
+- E. Blocking traffic from specific IP address ranges.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
