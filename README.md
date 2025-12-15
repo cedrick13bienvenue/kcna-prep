@@ -2773,3 +2773,19 @@
 </details>
 
 ---
+
+**If a Pod needs temporary scratch space that is empty upon creation and deleted when the Pod terminates, which volume type is most appropriate?**
+
+- A. hostPath
+- B. persistentVolumeClaim
+- C. emptyDir
+- D. configMap
+- E. nfs
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
