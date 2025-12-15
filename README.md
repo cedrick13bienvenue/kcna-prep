@@ -2709,3 +2709,19 @@
 </details>
 
 ---
+
+**What is a key characteristic of runc, often used by higher-level runtimes like containerd?**
+
+- A. It's a full-fledged container orchestrator.
+- B. It provides a command-line tool for building OCI-compliant images.
+- C. It's a low-level OCI runtime responsible for spawning and running containers.
+- D. It's a CNI plugin for configuring Pod networking.
+- E. It's a distributed key-value store for container metadata.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
