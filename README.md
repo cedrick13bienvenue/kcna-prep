@@ -2741,3 +2741,19 @@
 </details>
 
 ---
+
+**An Ingress resource in Kubernetes provides what type of functionality?**
+
+- A. L4 TCP/UDP load balancing for internal services.
+- B. Management of external HTTP/S access to services, with host/path based routing.
+- C. Network isolation between Pods within the same namespace.
+- D. Dynamic provisioning of persistent storage for web servers.
+- E. A CNI plugin implementation for advanced networking features.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
