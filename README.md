@@ -2821,3 +2821,19 @@
 </details>
 
 ---
+
+**In Kubernetes, what is the purpose of an EndpointSlice object in relation to a Service?**
+
+- A. To define the external IP address for a LoadBalancer Service.
+- B. To store the DNS configuration for a Service.
+- C. To efficiently track and provide the IP addresses and ports of Pods backing a Service.
+- D. To enforce network policies for traffic destined to a Service.
+- E. To manage TLS termination for a Service.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
