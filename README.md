@@ -2789,3 +2789,19 @@
 </details>
 
 ---
+
+**What is a key security implication of running containers as a non-root user?**
+
+- A. It prevents containers from accessing network resources.
+- B. It reduces the potential impact if the container process is compromised.
+- C. It allows containers to bypass RBAC checks for API access.
+- D. It disables the container runtime's ability to pull images from private registries.
+- E. It encrypts all data written by the container to its filesystem.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
