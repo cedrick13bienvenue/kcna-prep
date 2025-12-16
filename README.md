@@ -2853,3 +2853,19 @@
 </details>
 
 ---
+
+**A StatefulSet requires stable, unique network identifiers for its Pods. How is this typically achieved in Kubernetes?**
+
+- A. By manually assigning static IP addresses to each Pod.
+- B. Through a headless Service that creates DNS records for each Pod.
+- C. Using hostNetwork: true for all Pods in the StatefulSet.
+- D. By relying on CNI plugins to assign predictable IPs from a predefined range.
+- E. By using NetworkPolicy to restrict Pod IPs.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
