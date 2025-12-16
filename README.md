@@ -2837,3 +2837,19 @@
 </details>
 
 ---
+
+**Which component of a Service Mesh architecture is typically injected as a sidecar container into application Pods?**
+
+- A. The control plane's central policy manager.
+- B. The data plane proxy (e.g., Envoy, Linkerd2-proxy).
+- C. The certificate authority for issuing mTLS certificates.
+- D. The metrics collection and aggregation server.
+- E. The UI dashboard for visualizing mesh topology.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
