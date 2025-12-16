@@ -2805,3 +2805,19 @@
 </details>
 
 ---
+
+**What is the typical interaction flow when kubelet needs to start a Pod using a CRI-compliant runtime?**
+
+- A. kubelet directly calls runc to create the container.
+- B. kubelet sends a request to the CRI gRPC server implemented by the runtime.
+- C. kubelet updates etcd, and the runtime reads the changes.
+- D. kubelet instructs kube-proxy to prepare the network for the runtime.
+- E. kubelet uses kubectl commands to tell the runtime what to do.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
