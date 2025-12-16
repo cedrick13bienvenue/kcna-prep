@@ -2869,3 +2869,19 @@
 </details>
 
 ---
+
+**When using dynamic provisioning for Kubernetes storage, what happens if a PersistentVolumeClaim requests a StorageClass that does not exist?**
+
+- A. The PVC remains in a Pending state indefinitely or until the class is created.
+- B. Kubernetes automatically creates a default StorageClass and uses it.
+- C. The Pod attempting to use the PVC will fail to start with a network error.
+- D. The PVC will use any available PersistentVolume regardless of its StorageClass.
+- E. The request defaults to using hostPath storage on the assigned node.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
