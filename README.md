@@ -2901,3 +2901,19 @@
 </details>
 
 ---
+
+**What is a key difference between containerd and Docker Engine in the context of Kubernetes (post-dockershim removal)?**
+
+- A. containerd cannot run Docker-formatted images; Docker Engine can.
+- B. Docker Engine includes build tools and a CLI; containerd is a core runtime.
+- C. containerd is not OCI compliant; Docker Engine is.
+- D. Docker Engine implements CRI directly; containerd requires a shim.
+- E. containerd is only for Linux; Docker Engine is cross-platform.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
