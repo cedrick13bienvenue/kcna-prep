@@ -2885,3 +2885,19 @@
 </details>
 
 ---
+
+**What is the primary benefit of using orchestration for rolling updates compared to manual, script-based updates?**
+
+- A. Faster individual container restart times.
+- B. Guaranteed zero cost for update operations.
+- C. Automated health checks, progressive rollout, and easier rollback capabilities.
+- D. Elimination of the need for container image registries.
+- E. In-place binary patching of running application code.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
