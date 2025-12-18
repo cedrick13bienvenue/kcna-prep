@@ -2981,3 +2981,19 @@
 </details>
 
 ---
+
+**A PodSecurityContext can be used to define security settings that apply to:**
+
+- A. All Pods within a specific Namespace.
+- B. A specific container within a Pod.
+- C. All containers within a Pod, and potentially the Pod's volumes.
+- D. Only the network policies associated with a Pod.
+- E. The ServiceAccount used by the Pod.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
