@@ -2949,3 +2949,19 @@
 </details>
 
 ---
+
+**What is the concept of a "control plane" in a Service Mesh architecture?**
+
+- A. The set of sidecar proxies running alongside application containers.
+- B. The central components that manage and configure the data plane proxies.
+- C. The application code responsible for handling business logic.
+- D. The underlying Kubernetes cluster nodes.
+- E. The network infrastructure connecting the cluster to the internet.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
