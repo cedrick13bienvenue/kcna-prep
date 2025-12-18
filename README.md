@@ -2965,3 +2965,19 @@
 </details>
 
 ---
+
+**If a PersistentVolume is reclaimed using the Delete reclaim policy, what happens to the underlying storage when the associated PersistentVolumeClaim is deleted?**
+
+- A. The storage is archived and can be restored later.
+- B. The PersistentVolume object is deleted, but the data on the storage medium remains.
+- C. The data on the underlying storage medium is deleted.
+- D. The PersistentVolume becomes available for another PersistentVolumeClaim.
+- E. The storage is automatically resized to its minimum capacity.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
