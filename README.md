@@ -2933,3 +2933,19 @@
 </details>
 
 ---
+
+**Which type of Kubernetes Service is typically used to expose an application to traffic from outside the Kubernetes cluster using a cloud provider's load balancer?**
+
+- A. ClusterIP
+- B. NodePort
+- C. LoadBalancer
+- D. ExternalName
+- E. Headless Service
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
