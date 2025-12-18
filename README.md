@@ -2917,3 +2917,19 @@
 </details>
 
 ---
+
+**How does Role-Based Access Control (RBAC) in Kubernetes contribute to the principle of least privilege?**
+
+- A. By encrypting all API communication by default.
+- B. By ensuring all Pods run with minimal resource requests and limits.
+- C. By allowing administrators to grant users/ServiceAccounts only necessary permissions.
+- D. By automatically rotating credentials for ServiceAccounts.
+- E. By restricting network access between namespaces.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
