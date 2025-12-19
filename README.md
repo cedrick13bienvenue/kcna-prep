@@ -3045,3 +3045,19 @@
 </details>
 
 ---
+
+**How does a VolumeSnapshot object in Kubernetes relate to a PersistentVolumeClaim?**
+
+- A. It defines the maximum size a PVC can grow to.
+- B. It's a request to create a point-in-time copy of the data in a PVC.
+- C. It's a type of PVC that uses ephemeral local storage.
+- D. It specifies the encryption key to be used for a PVC.
+- E. It provides a template for creating multiple identical PVCs.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
