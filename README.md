@@ -3093,3 +3093,19 @@
 </details>
 
 ---
+
+**In a Service Mesh, what is the typical role of the "data plane"?**
+
+- A. To define global policies and configurations for service communication.
+- B. To collect telemetry data and send it to a centralized monitoring system.
+- C. To actually handle and proxy network traffic between services (e.g., using sidecars).
+- D. To provide a user interface for managing and visualizing the mesh.
+- E. To manage the lifecycle of service instances (deploy, scale, heal).
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
