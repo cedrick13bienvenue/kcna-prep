@@ -3013,3 +3013,19 @@
 </details>
 
 ---
+
+**What is the main difference between iptables and IPVS modes for kube-proxy?**
+
+- A. iptables mode is newer and supports more advanced features.
+- B. IPVS is designed for smaller clusters; iptables for larger ones.
+- C. iptables uses linked lists for rules; IPVS uses hash tables, often better for scale.
+- D. IPVS mode does not require kube-proxy to run on worker nodes.
+- E. iptables mode can only handle HTTP traffic; IPVS handles all TCP/UDP.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
