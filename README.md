@@ -2997,3 +2997,19 @@
 </details>
 
 ---
+
+**What is a key benefit of using the Container Runtime Interface (CRI) from Kubernetes' perspective?**
+
+- A. It simplifies the container image building process for developers.
+- B. It allows Kubernetes to be independent of specific container runtime implementations.
+- C. It provides a built-in metrics collection system for containers.
+- D. It enables running virtual machines alongside containers within the same Pod.
+- E. It standardizes the format for container log messages.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
