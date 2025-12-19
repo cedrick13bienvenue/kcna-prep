@@ -3061,3 +3061,19 @@
 </details>
 
 ---
+
+**Which Kubernetes security mechanism would you use to prevent containers in a Pod from running as the root user or gaining new privileges?**
+
+- A. NetworkPolicy
+- B. Role and RoleBinding
+- C. SecurityContext (e.g., runAsNonRoot: true, allowPrivilegeEscalation: false)
+- D. Secret storing user credentials.
+- E. LimitRange defining CPU limits.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
