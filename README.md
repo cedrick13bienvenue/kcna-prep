@@ -3077,3 +3077,19 @@
 </details>
 
 ---
+
+**What is the primary advantage of a "headless" Service in Kubernetes?**
+
+- A. It provides a stable ClusterIP for load balancing.
+- B. It automatically creates an external load balancer for the Service.
+- C. It allows direct Pod IP discovery via DNS, often used with StatefulSets.
+- D. It encrypts all traffic to the Pods it selects.
+- E. It exposes Pods on every node using a fixed NodePort.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
