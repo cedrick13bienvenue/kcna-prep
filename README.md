@@ -3029,3 +3029,19 @@
 </details>
 
 ---
+
+**When would you typically choose a Service Mesh over just using Kubernetes NetworkPolicies for securing inter-Pod communication?**
+
+- A. When you need basic L3/L4 firewalling based on Pod labels.
+- B. When you require application-layer (L7) traffic management, mTLS, and observability.
+- C. When you need to expose services externally using an Ingress controller.
+- D. When you want to restrict a Pod's access to host resources.
+- E. When the primary concern is node-to-node encryption.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
