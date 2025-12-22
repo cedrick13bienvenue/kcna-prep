@@ -3205,3 +3205,19 @@
 </details>
 
 ---
+
+**Which architectural component ensures that the actual state of cluster resources converges towards the desired state defined in their specifications?**
+
+- A. kube-apiserver
+- B. kube-scheduler
+- C. Controllers (within kube-controller-manager)
+- D. kubelet
+- E. etcd
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
