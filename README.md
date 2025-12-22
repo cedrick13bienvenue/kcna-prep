@@ -3141,3 +3141,19 @@
 </details>
 
 ---
+
+**How does Kubernetes DNS enable service discovery for a Service named my-svc in namespace my-ns from another Pod in the same namespace?**
+
+- A. The Pod queries for my-svc.my-ns.svc.cluster.local.
+- B. The Pod queries for my-svc.
+- C. The Pod queries for the ClusterIP of my-svc directly.
+- D. kube-proxy injects the IP of my-svc into the Pod's /etc/hosts.
+- E. Pods cannot discover services in the same namespace via DNS.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
