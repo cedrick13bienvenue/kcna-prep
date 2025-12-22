@@ -3189,3 +3189,19 @@
 </details>
 
 ---
+
+**One of the challenges in early container adoption was managing many containers across many hosts. What core capability did orchestrators bring to solve this directly?**
+
+- A. Standardization of container image formats.
+- B. Automated cluster-wide scheduling and resource management.
+- C. Tools for building smaller container images.
+- D. Secure private container image registries.
+- E. Faster container boot times.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
