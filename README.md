@@ -3109,3 +3109,19 @@
 </details>
 
 ---
+
+**What does the accessModes field (e.g., ReadWriteOnce, ReadOnlyMany, ReadWriteMany) on a PersistentVolume signify?**
+
+- A. The speed of the underlying storage (e.g., SSD vs. HDD).
+- B. The encryption status of the volume.
+- C. How the volume can be mounted by nodes and Pods.
+- D. The backup policy for the volume.
+- E. The geographical region where the storage is located.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
