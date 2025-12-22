@@ -3125,3 +3125,19 @@
 </details>
 
 ---
+
+**What differentiates a PodSecurityPolicy (deprecated) or its successor (Pod Security Admission) from a NetworkPolicy?**
+
+- A. PodSecurityPolicy controls network access; NetworkPolicy controls Pod privileges.
+- B. PodSecurityPolicy defines what a Pod can do (e.g., host access, privileges); NetworkPolicy defines network connectivity.
+- C. Both control the same aspects but at different scopes (namespace vs. cluster).
+- D. NetworkPolicy is implemented by CNI; PodSecurityPolicy by the runtime.
+- E. PodSecurityPolicy is for ingress; NetworkPolicy is for egress.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
