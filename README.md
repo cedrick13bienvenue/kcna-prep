@@ -3157,3 +3157,19 @@
 </details>
 
 ---
+
+**What is the primary purpose of the volumeMode field (e.g., Filesystem, Block) in a PersistentVolume and PersistentVolumeClaim?**
+
+- A. To specify whether the volume should be encrypted.
+- B. To indicate if the volume supports snapshots.
+- C. To determine if the volume should be presented as a mounted filesystem or a raw block device.
+- D. To define the accessModes allowed for the volume.
+- E. To set the default permissions for files created on the volume.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
