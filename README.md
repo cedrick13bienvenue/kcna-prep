@@ -3173,3 +3173,19 @@
 </details>
 
 ---
+
+**If a container image specifies a USER instruction, but the Pod's SecurityContext also defines runAsUser, which value typically takes precedence?**
+
+- A. The USER instruction in the Dockerfile.
+- B. The runAsUser from the Pod's SecurityContext.
+- C. Neither; the container will run as root by default.
+- D. The values are merged, leading to an error.
+- E. The kubelet decides based on node configuration.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
