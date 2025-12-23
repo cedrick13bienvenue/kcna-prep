@@ -3237,3 +3237,19 @@
 </details>
 
 ---
+
+**A Pod specification includes two containers: one web server and one log shipper. How do these containers communicate efficiently over the network within the Pod?**
+
+- A. To schedule Pods onto the node
+- B. To store the state of Pods running on the node
+- C. To ensure containers described in PodSpecs assigned to its node are running
+- D. To manage network routing rules for Services
+- E. To authenticate API requests originating from the node
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
