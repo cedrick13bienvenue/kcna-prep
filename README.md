@@ -3221,3 +3221,19 @@
 </details>
 
 ---
+
+**A Pod specification includes two containers: one web server and one log shipper. How do these containers communicate efficiently over the network within the Pod?**
+
+- A. Via a Kubernetes Service
+- B. Via the node's primary IP address
+- C. Via localhost and shared network namespace
+- D. Via an automatically created NetworkPolicy
+- E. Via distinct Pod IP addresses assigned to each container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
