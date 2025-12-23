@@ -3285,3 +3285,19 @@
 </details>
 
 ---
+
+**What core Kubernetes concept allows Deployments to perform rolling updates with zero downtime?**
+
+- A. Managing StatefulSets
+- B. Utilizing PersistentVolumes
+- C. Incrementally replacing Pods managed by ReplicaSets
+- D. Direct communication with the kube-scheduler
+- E. Modifying NetworkPolicy rules dynamically
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
