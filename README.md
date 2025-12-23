@@ -3253,3 +3253,19 @@
 </details>
 
 ---
+
+**Which Kubernetes resource provides a mechanism for grouping API objects and providing a scope for names?**
+
+- A. Label
+- B. Annotation
+- C. Namespace
+- D. Deployment
+- E. ServiceAccount
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
