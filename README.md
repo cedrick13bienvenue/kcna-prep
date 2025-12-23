@@ -3269,3 +3269,19 @@
 </details>
 
 ---
+
+**When interacting with the Kubernetes API server using kubectl, what is the typical format used for defining resource manifests?**
+
+- A. JSON
+- B. XML
+- C. YAML
+- D. Protocol Buffers
+- E. Plain Text
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
