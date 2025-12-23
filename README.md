@@ -3301,3 +3301,19 @@
 </details>
 
 ---
+
+**Which component is responsible for making the ultimate decision about which node a newly created Pod should run on?**
+
+- A. kubelet
+- B. kube-apiserver
+- C. kube-scheduler
+- D. kube-controller-manager
+- E. The Pod's ServiceAccount
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
