@@ -3365,3 +3365,19 @@
 </details>
 
 ---
+
+**What is the purpose of labels in Kubernetes?**
+
+- A. To provide detailed descriptive information about a resource
+- B. To define network access rules between resources
+- C. To attach identifying metadata for selection and organization
+- D. To specify resource requests and limits for containers
+- E. To store multi-line configuration data
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
