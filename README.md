@@ -3317,3 +3317,19 @@
 </details>
 
 ---
+
+**How does Kubernetes typically handle the failure of a container within a Pod?**
+
+- A. By deleting the entire Pod immediately
+- B. By restarting the failed container based on the Pod's restartPolicy
+- C. By scheduling a new Pod on a different node
+- D. By marking the Node as unschedulable
+- E. By alerting the kube-scheduler to find a replacement container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
