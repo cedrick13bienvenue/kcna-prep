@@ -3381,3 +3381,19 @@
 </details>
 
 ---
+
+**When defining a Pod, what does the spec.containers[].image field specify?**
+
+- A. The base operating system for the container
+- B. The specific container image (and tag) to run
+- C. The command to execute inside the container
+- D. The resource limits for the container
+- E. The network port the container will listen on
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
