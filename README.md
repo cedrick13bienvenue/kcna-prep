@@ -3397,3 +3397,19 @@
 </details>
 
 ---
+
+**If a Pod needs access to specific hardware features available only on certain nodes, which scheduling mechanism is most suitable?**
+
+- A. ResourceQuota
+- B. NetworkPolicy
+- C. PodDisruptionBudget
+- D. Taints and Tolerations or Node Affinity
+- E. HorizontalPodAutoscaler
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
