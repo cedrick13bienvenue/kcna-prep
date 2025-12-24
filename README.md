@@ -3413,3 +3413,19 @@
 </details>
 
 ---
+
+**Which API object represents a single point of access to a set of Pods providing the same functionality, acting as an internal load balancer?**
+
+- A. Ingress
+- B. EndpointSlice
+- C. Service
+- D. ReplicaSet
+- E. NetworkPolicy
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
