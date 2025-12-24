@@ -3333,3 +3333,19 @@
 </details>
 
 ---
+
+**What distinguishes a Kubernetes Secret from a ConfigMap?**
+
+- A. Secrets are namespaced, ConfigMaps are not
+- B. ConfigMaps store configuration data, Secrets store sensitive data (base64 encoded)
+- C. Secrets can only be mounted as environment variables, ConfigMaps as files
+- D. ConfigMaps are automatically encrypted at rest, Secrets are not
+- E. Secrets are immutable once created, ConfigMaps are mutable
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
