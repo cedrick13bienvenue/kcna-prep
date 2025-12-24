@@ -3349,3 +3349,19 @@
 </details>
 
 ---
+
+**Which of the following is NOT a standard component of the Kubernetes control plane?**
+
+- A. etcd
+- B. kube-apiserver
+- C. kube-scheduler
+- D. containerd
+- E. kube-controller-manager
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
