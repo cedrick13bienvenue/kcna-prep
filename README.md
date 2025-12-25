@@ -3541,3 +3541,19 @@
 </details>
 
 ---
+
+**If you want a specific Pod to run on every node in the cluster (or a subset matching certain criteria), which workload resource should you use?**
+
+- A. Deployment
+- B. StatefulSet
+- C. DaemonSet
+- D. Job
+- E. ReplicaSet
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
