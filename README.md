@@ -3429,3 +3429,19 @@
 </details>
 
 ---
+
+**What is the relationship between a Deployment and a ReplicaSet?**
+
+- A. A ReplicaSet manages multiple Deployments
+- B. A Deployment watches ReplicaSets for scaling signals
+- C. A Deployment declaratively manages ReplicaSets to orchestrate Pod updates
+- D. ReplicaSets are used only for stateful applications, Deployments for stateless
+- E. They are independent controllers managing Pod lifecycles
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
