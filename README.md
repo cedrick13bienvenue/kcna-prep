@@ -3493,3 +3493,19 @@
 </details>
 
 ---
+
+**What fundamental concept allows Kubernetes controllers to operate effectively without needing constant instructions?**
+
+- A. Imperative command execution
+- B. The reconciliation loop (Control Loop)
+- C. Direct manipulation of etcd
+- D. Event-driven webhooks
+- E. Stateful session management
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
