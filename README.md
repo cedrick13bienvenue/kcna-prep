@@ -3445,3 +3445,19 @@
 </details>
 
 ---
+
+**The Kubernetes API server performs several actions when receiving a request. Which action verifies if the authenticated user is allowed to perform the requested operation?**
+
+- A. Authentication
+- B. Admission Control
+- C. Authorization
+- D. Rate Limiting
+- E. Validation
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
