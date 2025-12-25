@@ -3525,3 +3525,19 @@
 </details>
 
 ---
+
+**You need to provide non-sensitive configuration data (like a URL endpoint or logging level) to a Pod. Which resource is most appropriate?**
+
+- A. Secret
+- B. ConfigMap
+- C. Annotation
+- D. ResourceQuota
+- E. DownwardAPI
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
