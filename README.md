@@ -3557,3 +3557,19 @@
 </details>
 
 ---
+
+**What does it mean for the Kubernetes API to be "declarative"?**
+
+- A. API calls must be made sequentially
+- B. Users specify the desired end state, not the steps to reach it
+- C. The API only accepts YAML formatted requests
+- D. API responses always include the full resource specification
+- E. The API can only create resources, not update or delete them
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
