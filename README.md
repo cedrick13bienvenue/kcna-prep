@@ -3509,3 +3509,19 @@
 </details>
 
 ---
+
+**Which OCI (Open Container Initiative) specification defines how container runtimes should execute containers?**
+
+- A. Image Specification
+- B. Distribution Specification
+- C. Runtime Specification (CRI is Kubernetes' interface to this)
+- D. Network Specification (CNI is related)
+- E. Storage Specification
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
