@@ -3477,3 +3477,19 @@
 </details>
 
 ---
+
+**Which field in a Pod's specification is crucial for the kube-scheduler to determine if a node has sufficient resources?**
+
+- A. spec.nodeName
+- B. spec.containers[].ports
+- C. spec.containers[].resources.requests
+- D. spec.serviceAccountName
+- E. spec.restartPolicy
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
