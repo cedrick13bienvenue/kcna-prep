@@ -3461,3 +3461,19 @@
 </details>
 
 ---
+
+**What is the primary function of etcd within the Kubernetes architecture?**
+
+- A. To run the container runtime interface
+- B. To schedule Pods across available nodes
+- C. To provide reliable, distributed storage for cluster state and configuration
+- D. To manage network policies and ingress rules
+- E. To execute health checks against running containers
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
