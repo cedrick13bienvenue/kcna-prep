@@ -3637,3 +3637,19 @@
 </details>
 
 ---
+
+**What is the primary goal of the Open Container Initiative (OCI)?**
+
+- A. To create a commercial container platform
+- B. To define open standards around container formats and runtime
+- C. To manage the Kubernetes source code repository
+- D. To develop container networking plugins (CNI)
+- E. To provide free container image hosting
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
