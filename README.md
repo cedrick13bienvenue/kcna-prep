@@ -3621,3 +3621,19 @@
 </details>
 
 ---
+
+**A StatefulSet is often preferred over a Deployment for running databases. Why?**
+
+- A. StatefulSets have simpler configuration
+- B. Deployments cannot use Persistent Storage
+- C. StatefulSets provide stable, unique network IDs and persistent storage per Pod
+- D. Deployments automatically handle database schema migrations
+- E. StatefulSets require less CPU and memory resources
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
