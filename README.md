@@ -3605,3 +3605,19 @@
 </details>
 
 ---
+
+**Which component translates a Service's virtual IP address into actual Pod IP addresses on each node?**
+
+- A. etcd
+- B. kube-apiserver
+- C. coredns / kube-dns
+- D. kube-proxy
+- E. kubelet
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
