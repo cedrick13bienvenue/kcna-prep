@@ -3573,3 +3573,19 @@
 </details>
 
 ---
+
+**Which mechanism prevents the kube-scheduler from placing Pods on a Node that is undergoing maintenance or is otherwise unsuitable?**
+
+- A. ResourceQuotas
+- B. NetworkPolicies
+- C. Taints on the Node and Tolerations on the Pod
+- D. PodDisruptionBudgets
+- E. PriorityClasses
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
