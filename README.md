@@ -3653,3 +3653,19 @@
 </details>
 
 ---
+
+**Which kubectl command is used to view the logs of a running container within a Pod?**
+
+- A. kubectl get pod <pod-name> --logs
+- B. kubectl describe pod <pod-name>
+- C. kubectl logs <pod-name> [-c <container-name>]
+- D. kubectl attach <pod-name> -c <container-name>
+- E. kubectl exec <pod-name> -- tail /var/log/messages
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
