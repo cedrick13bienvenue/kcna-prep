@@ -3589,3 +3589,19 @@
 </details>
 
 ---
+
+**What part of the Kubernetes system is responsible for managing the lifecycle of EndpointSlice objects, which track Pod IPs for Services?**
+
+- A. kube-proxy
+- B. kubelet
+- C. endpointslice-controller (within kube-controller-manager)
+- D. kube-scheduler
+- E. coredns / kube-dns
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
