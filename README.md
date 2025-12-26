@@ -3669,3 +3669,19 @@
 </details>
 
 ---
+
+**What is the function of an Admission Controller in the Kubernetes API request lifecycle?**
+
+- A. To authenticate the user making the request
+- B. To authorize the requested operation
+- C. To mutate or validate API objects before they are persisted in etcd
+- D. To schedule the Pod onto a suitable node
+- E. To route network traffic to the correct Pod
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
