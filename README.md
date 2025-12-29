@@ -3765,3 +3765,19 @@
 </details>
 
 ---
+
+**Which control plane component is primarily responsible for running controllers like the Node Controller, Deployment Controller, and Service Controller?**
+
+- A. etcd
+- B. kube-apiserver
+- C. kube-scheduler
+- D. kube-controller-manager
+- E. cloud-controller-manager
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
