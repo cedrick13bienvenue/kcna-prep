@@ -3781,3 +3781,19 @@
 </details>
 
 ---
+
+**What is the purpose of a LimitRange object within a Namespace?**
+
+- A. To limit the total resource usage of the entire Namespace
+- B. To set default resource requests/limits for containers and validate min/max bounds
+- C. To restrict network traffic between Pods in the Namespace
+- D. To control which users can create resources in the Namespace
+- E. To define storage quotas for PersistentVolumeClaims
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
