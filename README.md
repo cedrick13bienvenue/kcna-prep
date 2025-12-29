@@ -3717,3 +3717,19 @@
 </details>
 
 ---
+
+**What is the purpose of the metadata.ownerReferences field in a Kubernetes object?**
+
+- A. To specify the user who created the object
+- B. To link the object to its managing controller (e.g., ReplicaSet to Deployment)
+- C. To list labels used for selecting the object
+- D. To store annotations related to the object's owner
+- E. To define the Namespace the object belongs to
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
