@@ -3685,3 +3685,19 @@
 </details>
 
 ---
+
+**Which resource defines constraints on the total amount of compute resources (CPU, memory) that can be consumed within a specific Namespace?**
+
+- A. LimitRange
+- B. ResourceQuota
+- C. NetworkPolicy
+- D. PodSecurityPolicy / PodSecurityAdmission
+- E. PriorityClass
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
