@@ -3701,3 +3701,19 @@
 </details>
 
 ---
+
+**Consider a Pod that needs to perform a one-time initialization task before its main application container starts. Which container type is best suited for this?**
+
+- A. Sidecar Container
+- B. Ephemeral Container
+- C. Init Container
+- D. Main Application Container
+- E. Job Container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
