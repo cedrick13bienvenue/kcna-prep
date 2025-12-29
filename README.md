@@ -3749,3 +3749,19 @@
 </details>
 
 ---
+
+**If multiple Pods need to share persistent data, which volume type allows simultaneous mounting by multiple Pods (potentially with read/write access)?**
+
+- A. hostPath
+- B. emptyDir
+- C. A PersistentVolume with an accessMode like ReadWriteMany (RWX)
+- D. secret volume
+- E. configMap volume
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
