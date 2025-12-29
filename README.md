@@ -3733,3 +3733,19 @@
 </details>
 
 ---
+
+**Which statement best describes the relationship between Kubernetes and Docker (as of 2025)?**
+
+- A. Kubernetes requires Docker to be installed on all nodes.
+- B. Docker is the only container runtime supported by Kubernetes.
+- C. Kubernetes primarily interacts with container runtimes via CRI (e.g., containerd, CRI-O), abstracting Docker.
+- D. Docker manages the Kubernetes control plane components.
+- E. Kubernetes is a component within the Docker Enterprise platform.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
