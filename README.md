@@ -3845,3 +3845,19 @@
 </details>
 
 ---
+
+**Which resource attribute is primarily used by a Service to determine which Pods should receive traffic?**
+
+- A. metadata.name
+- B. metadata.namespace
+- C. metadata.labels (matched by the Service's selector)
+- D. spec.nodeName
+- E. status.podIP
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
