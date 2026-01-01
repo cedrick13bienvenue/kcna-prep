@@ -3813,3 +3813,19 @@
 </details>
 
 ---
+
+**How does the kube-scheduler handle Pods with defined affinity rules?**
+
+- A. It ignores affinity rules if resource requests cannot be met.
+- B. It uses affinity rules as the primary factor for node selection.
+- C. It considers affinity/anti-affinity rules during the filtering and scoring phases.
+- D. It delegates affinity processing to the kubelet.
+- E. It only processes podAffinity, not nodeAffinity.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
