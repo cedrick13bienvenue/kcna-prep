@@ -3861,3 +3861,19 @@
 </details>
 
 ---
+
+**What type of container volume shares the Pod's lifecycle and is initially empty, useful for temporary data sharing between containers in a Pod?**
+
+- A. hostPath
+- B. persistentVolumeClaim
+- C. emptyDir
+- D. nfs
+- E. secret
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
