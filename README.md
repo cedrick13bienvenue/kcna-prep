@@ -3877,3 +3877,19 @@
 </details>
 
 ---
+
+**Which Kubernetes API endpoint would kubectl get pods likely interact with?**
+
+- A. /api/v1/nodes
+- B. /api/v1/namespaces/{namespace}/pods
+- C. /apis/apps/v1/deployments
+- D. /healthz
+- E. /metrics
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
