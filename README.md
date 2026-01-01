@@ -3829,3 +3829,19 @@
 </details>
 
 ---
+
+**What is the concept of "desired state reconciliation" fundamental to Kubernetes?**
+
+- A. Users manually reconcile cluster state using kubectl.
+- B. Controllers continuously observe and work to match actual state to declared state.
+- C. etcd automatically corrects discrepancies between desired and actual state.
+- D. kubelet reconciles container state based solely on node health.
+- E. The API server rejects any configuration that deviates from the current state.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
