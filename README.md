@@ -3893,3 +3893,19 @@
 </details>
 
 ---
+
+**What is a potential consequence of setting container resource limits much higher than requests?**
+
+- A. Improved Pod scheduling priority
+- B. Reduced cost for node resources
+- C. Potential for node resource exhaustion and Pod eviction ("noisy neighbor" effect)
+- D. Faster container startup times
+- E. Automatic vertical scaling of the container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
