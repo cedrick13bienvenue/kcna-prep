@@ -3797,3 +3797,19 @@
 </details>
 
 ---
+
+**Which kubectl command would you use to apply a configuration defined in my-app.yaml declaratively?**
+
+- A. kubectl create -f my-app.yaml
+- B. kubectl replace -f my-app.yaml
+- C. kubectl apply -f my-app.yaml
+- D. kubectl patch -f my-app.yaml
+- E. kubectl run -f my-app.yaml
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
