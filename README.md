@@ -3973,3 +3973,19 @@
 </details>
 
 ---
+
+**What is the primary purpose of using annotations on Kubernetes resources?**
+
+- A. To select resources for operations (like Services selecting Pods)
+- B. To define resource constraints and quotas
+- C. To attach arbitrary non-identifying metadata (often used by tools)
+- D. To specify the desired number of replicas for a workload
+- E. To enforce security policies on Pods
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
