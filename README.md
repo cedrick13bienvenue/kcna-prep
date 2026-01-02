@@ -3941,3 +3941,19 @@
 </details>
 
 ---
+
+**If a Node fails, what component detects this failure and updates the Node's status in etcd?**
+
+- A. kubelet on the failed node
+- B. kube-proxy on peer nodes
+- C. node-controller (within kube-controller-manager)
+- D. kube-scheduler
+- E. etcd itself through distributed consensus
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
