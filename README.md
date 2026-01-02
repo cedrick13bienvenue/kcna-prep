@@ -3957,3 +3957,19 @@
 </details>
 
 ---
+
+**Which resource configuration allows a Pod to securely access the Kubernetes API server using the Pod's own identity?**
+
+- A. Mounting a Secret containing API keys
+- B. Configuring a ServiceAccount for the Pod and mounting its token
+- C. Using hostNetwork: true
+- D. Defining an Ingress resource
+- E. Setting environment variables with kubeconfig data
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
