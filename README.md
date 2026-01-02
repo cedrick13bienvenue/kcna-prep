@@ -3909,3 +3909,19 @@
 </details>
 
 ---
+
+**Which architectural pattern describes running a helper container alongside a main application container in the same Pod to provide auxiliary functionality?**
+
+- A. Init Container
+- B. Ephemeral Container
+- C. Sidecar Container
+- D. Ambassador Container
+- E. Adapter Container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
