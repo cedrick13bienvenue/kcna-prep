@@ -3925,3 +3925,19 @@
 </details>
 
 ---
+
+**How are API resources like Deployments and StatefulSets grouped in the Kubernetes API?**
+
+- A. Under the core v1 API group (/api/v1)
+- B. They are not part of any API group.
+- C. Under specific API groups like apps/v1
+- D. Under the scheduling.k8s.io API group
+- E. Under the batch/v1 API group
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
