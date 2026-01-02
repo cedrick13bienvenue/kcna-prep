@@ -3989,3 +3989,19 @@
 </details>
 
 ---
+
+**In a typical Kubernetes cluster setup, where does the kube-scheduler run?**
+
+- A. On every worker node
+- B. As a Pod managed by a DaemonSet
+- C. As a static Pod or systemd service on a control plane node
+- D. Inside the etcd cluster
+- E. As part of the kubelet binary
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
