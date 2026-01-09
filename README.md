@@ -4155,3 +4155,18 @@
 </details>
 
 ---
+
+**Which container runtime is most commonly associated with Kubernetes and implements the CRI (Container Runtime Interface)?**
+
+- A. Docker (dockershim)
+- B. containerd
+- C. rkt
+- D. LXC
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
