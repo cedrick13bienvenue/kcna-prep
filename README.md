@@ -4215,3 +4215,18 @@
 </details>
 
 ---
+
+**Which Kubernetes object defines rules about how Pods are allowed to communicate with each other and network endpoints?**
+
+- A. Service
+- B. Ingress
+- C. NetworkPolicy
+- D. SecurityContext
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
