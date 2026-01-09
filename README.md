@@ -4230,3 +4230,18 @@
 </details>
 
 ---
+
+**What is the primary purpose of a Service Mesh like Istio or Linkerd?**
+
+- A. Container image building
+- B. Cluster storage management
+- C. Managing inter-service comms
+- D. Node provisioning
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
