@@ -4140,3 +4140,18 @@
 </details>
 
 ---
+
+**Which of these is a standard specified by the OCI (Open Container Initiative)?**
+
+- A. Docker
+- B. Kubernetes
+- C. Image Specification
+- D. Istio
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
