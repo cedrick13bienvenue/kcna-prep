@@ -4020,3 +4020,123 @@
 </details>
 
 ---
+
+**Which Kubernetes component is responsible for watching for newly created Pods and assigning them to Nodes?**
+
+- A. kube-apiserver
+- B. etcd
+- C. kube-scheduler
+- D. kubelet
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**What is the primary function of the kubelet component?**
+
+- A. Storing cluster state
+- B. Scheduling Pods onto Nodes
+- C. Managing the container runtime
+- D. Exposing the Kubernetes API
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**Which component acts as the central control plane and exposes the Kubernetes API?**
+
+- A. kube-proxy
+- B. kube-apiserver
+- C. etcd
+- D. controller-manager
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
+
+**What is the primary role of etcd in a Kubernetes cluster?**
+
+- A. Running application containers
+- B. Scheduling workloads
+- C. Storing the cluster state
+- D. Managing network policies
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**Which Kubernetes resource is typically used to manage stateless applications by ensuring a specified number of Pod replicas are running?**
+
+- A. StatefulSet
+- B. DaemonSet
+- C. Deployment
+- D. Job
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**What type of software package bundles application code with all its dependencies, libraries, and configuration files?**
+
+- A. Virtual Machine
+- B. Container
+- C. Operating System
+- D. Serverless Function
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
+
+**In Kubernetes, what is the process of assigning Pods to Nodes called?**
+
+- A. Replication
+- B. Orchestration
+- C. Scheduling
+- D. Deployment
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
+
+**What is the main benefit of using container orchestration systems like Kubernetes?**
+
+- A. Simplifying code writing
+- B. Automating deployment & scaling
+- C. Reducing storage costs
+- D. Improving network latency
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
