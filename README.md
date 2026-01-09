@@ -4200,3 +4200,18 @@
 </details>
 
 ---
+
+**What is the role of a CNI (Container Network Interface) plugin in Kubernetes?**
+
+- A. Managing storage volumes
+- B. Providing container networking
+- C. Scheduling Pods
+- D. Securing the API server
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
