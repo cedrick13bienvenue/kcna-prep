@@ -4185,3 +4185,18 @@
 </details>
 
 ---
+
+**How can you securely store sensitive information like passwords or API keys in Kubernetes?**
+
+- A. ConfigMap
+- B. Annotation
+- C. Label
+- D. Secret
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
