@@ -4290,3 +4290,18 @@
 </details>
 
 ---
+
+**Which mechanism allows Kubernetes to automatically adjust the number of Pods in a Deployment based on CPU utilization or custom metrics?**
+
+- A. Vertical Pod Autoscaler (VPA)
+- B. Cluster Autoscaler (CA)
+- C. Horizontal Pod Autoscaler (HPA)
+- D. Node Problem Detector (NPD)
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
