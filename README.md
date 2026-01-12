@@ -4275,3 +4275,18 @@
 </details>
 
 ---
+
+**What is the function of a StorageClass in Kubernetes?**
+
+- A. To define types of storage
+- B. To claim a specific PV
+- C. To attach storage to a Pod
+- D. To backup volume data
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
