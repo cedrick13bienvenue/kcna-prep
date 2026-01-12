@@ -4335,3 +4335,18 @@
 </details>
 
 ---
+
+**What does "Serverless" computing primarily abstract away from the developer?**
+
+- A. Networking
+- B. Storage
+- C. Server Management
+- D. Operating System choice
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
