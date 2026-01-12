@@ -4350,3 +4350,18 @@
 </details>
 
 ---
+
+**Which organization hosts Kubernetes and promotes the growth of the cloud native ecosystem?**
+
+- A. Linux Foundation (LF)
+- B. Apache Software Foundation (ASF)
+- C. Cloud Native Computing Foundation (CNCF)
+- D. Open Source Initiative (OSI)
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
