@@ -4305,3 +4305,18 @@
 </details>
 
 ---
+
+**What is the primary goal of the Cluster Autoscaler?**
+
+- A. Scale Pod replicas
+- B. Scale cluster Nodes
+- C. Scale Persistent Volumes
+- D. Scale Service endpoints
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
