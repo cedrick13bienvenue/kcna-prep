@@ -4260,3 +4260,18 @@
 </details>
 
 ---
+
+**What does a PersistentVolumeClaim (PVC) represent in Kubernetes?**
+
+- A. A request for storage by a user
+- B. A type of storage backend
+- C. A node's local storage
+- D. A backup of a volume
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
