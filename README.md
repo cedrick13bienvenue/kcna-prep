@@ -4245,3 +4245,18 @@
 </details>
 
 ---
+
+**What Kubernetes object represents a piece of storage in the cluster, provisioned by an administrator or dynamically?**
+
+- A. PersistentVolumeClaim (PVC)
+- B. StorageClass
+- C. PersistentVolume (PV)
+- D. Volume
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
