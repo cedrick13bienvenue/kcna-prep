@@ -4365,3 +4365,18 @@
 </details>
 
 ---
+
+**What is the benefit of using open standards in cloud native technologies?**
+
+- A. Vendor lock-in
+- B. Increased complexity
+- C. Interoperability & Portability
+- D. Reduced security
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
