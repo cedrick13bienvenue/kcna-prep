@@ -4320,3 +4320,18 @@
 </details>
 
 ---
+
+**What term describes an architectural approach where applications are built as small, independent services that run in their own processes?**
+
+- A. Monolithic
+- B. Microservices
+- C. Serverless
+- D. N-Tier
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
