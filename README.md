@@ -4425,3 +4425,18 @@
 </details>
 
 ---
+
+**What type of telemetry data records discrete events that happened at a specific time?**
+
+- A. Metrics
+- B. Traces
+- C. Logs
+- D. Profiles
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
