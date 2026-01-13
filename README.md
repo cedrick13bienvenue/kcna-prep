@@ -4410,3 +4410,18 @@
 </details>
 
 ---
+
+**What are the three pillars of observability in cloud native systems?**
+
+- A. Alerts, Dashboards, Reports
+- B. Logs, Metrics, Traces
+- C. Monitoring, Logging, Profiling
+- D. Scaling, Scheduling, Storing
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
