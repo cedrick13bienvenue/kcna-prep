@@ -4470,3 +4470,18 @@
 </details>
 
 ---
+
+**Which open-source monitoring system, graduated by the CNCF, is widely used for collecting and querying time-series metrics in Kubernetes?**
+
+- A. Grafana
+- B. Jaeger
+- C. Prometheus
+- D. Fluentd
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
