@@ -4380,3 +4380,18 @@
 </details>
 
 ---
+
+**In a typical cloud native environment, which persona is primarily responsible for designing and building the application?**
+
+- A. Operator
+- B. Developer
+- C. Site Reliability Engineer (SRE)
+- D. Security Engineer
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
