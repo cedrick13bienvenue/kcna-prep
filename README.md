@@ -4440,3 +4440,18 @@
 </details>
 
 ---
+
+**What type of telemetry data represents a measurement sampled over time, often aggregated?**
+
+- A. Metrics
+- B. Traces
+- C. Logs
+- D. Events
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
