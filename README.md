@@ -4395,3 +4395,18 @@
 </details>
 
 ---
+
+**Which persona is typically focused on the reliability, scalability, and maintenance of the underlying Kubernetes platform?**
+
+- A. End User
+- B. Application Developer
+- C. Platform Operator / SRE
+- D. Data Scientist
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
