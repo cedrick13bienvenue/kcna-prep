@@ -4455,3 +4455,18 @@
 </details>
 
 ---
+
+**What type of telemetry data shows the path and duration of a request as it flows through multiple services?**
+
+- A. Metrics
+- B. Traces
+- C. Logs
+- D. Alerts
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
