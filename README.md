@@ -4590,3 +4590,18 @@
 </details>
 
 ---
+
+**What does "CD" stand for in CI/CD?**
+
+- A. Container Deployment
+- B. Continuous Delivery/Deployment
+- C. Cluster Discovery
+- D. Centralized Dashboard
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
