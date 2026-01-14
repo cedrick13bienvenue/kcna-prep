@@ -4515,3 +4515,18 @@
 </details>
 
 ---
+
+**In cloud native cost management, what does "FinOps" primarily focus on?**
+
+- A. Optimizing application code
+- B. Managing cloud spending
+- C. Improving network security
+- D. Automating deployments
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
