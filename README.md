@@ -4560,3 +4560,18 @@
 </details>
 
 ---
+
+**Which core principle differentiates GitOps from general Infrastructure as Code (IaC)?**
+
+- A. Using code for infra config
+- B. Automating infrastructure tests
+- C. Using Git as the source of truth
+- D. Manual deployment approval
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
