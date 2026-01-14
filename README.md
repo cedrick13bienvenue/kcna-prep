@@ -4545,3 +4545,18 @@
 </details>
 
 ---
+
+**What is the practice of using Git repositories as the single source of truth for defining and managing infrastructure and applications?**
+
+- A. CI/CD
+- B. DevOps
+- C. GitOps
+- D. Infrastructure as Code (IaC)
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
