@@ -4485,3 +4485,18 @@
 </details>
 
 ---
+
+**How does Prometheus typically gather metrics from applications and infrastructure?**
+
+- A. Pushing metrics to endpoints
+- B. Pulling metrics via scraping
+- C. Reading log files directly
+- D. Using kernel probes
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
