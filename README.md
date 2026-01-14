@@ -4530,3 +4530,18 @@
 </details>
 
 ---
+
+**Why can cost management be challenging in Kubernetes environments?**
+
+- A. Lack of monitoring tools
+- B. Shared resources & dynamic workloads
+- C. Fixed infrastructure costs
+- D. Infrequent deployments
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
