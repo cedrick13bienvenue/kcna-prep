@@ -4575,3 +4575,18 @@
 </details>
 
 ---
+
+**What does "CI" stand for in the context of application delivery?**
+
+- A. Continuous Integration
+- B. Cluster Infrastructure
+- C. Container Interface
+- D. Cloud Instance
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
