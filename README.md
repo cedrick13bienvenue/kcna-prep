@@ -4500,3 +4500,18 @@
 </details>
 
 ---
+
+**What language is used to write queries in Prometheus?**
+
+- A. SQL
+- B. PromQL
+- C. JSONPath
+- D. YAML
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
