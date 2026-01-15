@@ -4665,3 +4665,18 @@
 </details>
 
 ---
+
+**What object binds a Role or ClusterRole to a user, group, or ServiceAccount?**
+
+- A. Secret
+- B. ConfigMap
+- C. NetworkPolicy
+- D. RoleBinding / ClusterRoleBinding
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
