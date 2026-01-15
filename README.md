@@ -4635,3 +4635,18 @@
 </details>
 
 ---
+
+**What is the primary goal of Application Delivery in a cloud native context?**
+
+- A. To secure the cluster
+- B. To monitor resource usage
+- C. To reliably deploy & manage apps
+- D. To provision infrastructure
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
