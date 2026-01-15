@@ -4605,3 +4605,18 @@
 </details>
 
 ---
+
+**Which stage in a typical CI/CD pipeline for Kubernetes usually involves creating a container image?**
+
+- A. Testing
+- B. Building
+- C. Deployment
+- D. Monitoring
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
