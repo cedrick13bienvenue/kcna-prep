@@ -4620,3 +4620,18 @@
 </details>
 
 ---
+
+**Which tool is commonly used in CI/CD pipelines to automate the build, test, and deployment processes?**
+
+- A. Kubernetes
+- B. Docker
+- C. Jenkins / GitLab CI / GitHub Actions
+- D. Prometheus
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
