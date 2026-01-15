@@ -4695,3 +4695,18 @@
 </details>
 
 ---
+
+**What is a primary difference between a Deployment and a StatefulSet?**
+
+- A. StatefulSets manage Pods
+- B. Deployments are for databases
+- C. StatefulSets provide stable IDs
+- D. Deployments use PVs
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
