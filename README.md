@@ -4650,3 +4650,18 @@
 </details>
 
 ---
+
+**In Kubernetes RBAC (Role-Based Access Control), what defines a set of permissions?**
+
+- A. Role / ClusterRole
+- B. ServiceAccount
+- C. RoleBinding / ClusterRoleBinding
+- D. User
+
+<details><summary>Answer</summary>
+
+**Correct answer:** A
+
+</details>
+
+---
