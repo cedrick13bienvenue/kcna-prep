@@ -4680,3 +4680,18 @@
 </details>
 
 ---
+
+**If you need a Pod to run on every single Node in the cluster (or a subset), which controller is most suitable?**
+
+- A. Deployment
+- B. StatefulSet
+- C. DaemonSet
+- D. Job
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
