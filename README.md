@@ -4740,3 +4740,18 @@
 </details>
 
 ---
+
+**What fundamental concept allows Kubernetes to maintain the desired state declared by the user?**
+
+- A. Imperative Commands
+- B. Control Loop / Reconciliation
+- C. Manual Scaling
+- D. Direct Node Access
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
