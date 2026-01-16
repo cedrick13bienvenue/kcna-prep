@@ -4787,3 +4787,19 @@
 </details>
 
 ---
+
+**A developer needs to expose a web application running in a set of Pods within the cluster using a stable internal IP address. Which Kubernetes resource is most appropriate?**
+
+- A. Ingress
+- B. NodePort Service
+- C. ClusterIP Service
+- D. ExternalName Service
+- E. ReplicaSet
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
