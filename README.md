@@ -4710,3 +4710,18 @@
 </details>
 
 ---
+
+**Which Kubernetes API object is used to manage external access to services in a cluster, typically HTTP/S?**
+
+- A. Service (LoadBalancer type)
+- B. NodePort Service
+- C. Ingress
+- D. ExternalName Service
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
