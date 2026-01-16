@@ -4771,3 +4771,19 @@
 </details>
 
 ---
+
+**Which Kubernetes control plane component is responsible for persisting the cluster's desired state and configuration?**
+
+- A. kube-scheduler
+- B. kube-apiserver
+- C. etcd
+- D. kubelet
+- E. controller-manager
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
