@@ -4755,3 +4755,19 @@
 </details>
 
 ---
+
+**What is the fundamental reason Kubernetes uses Pods as the smallest deployable unit, rather than individual containers directly?**
+
+- A. To simplify network configuration for containers
+- B. To enable co-location and shared resources for containers
+- C. To enforce stricter security boundaries than containers
+- D. To provide a unique IP address per container
+- E. To reduce container image size
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
