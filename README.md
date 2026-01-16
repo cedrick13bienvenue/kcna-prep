@@ -4725,3 +4725,18 @@
 </details>
 
 ---
+
+**What design pattern involves running an additional container within a Pod to provide auxiliary functions (like logging or monitoring) to the main application container?**
+
+- A. Init Container
+- B. Sidecar Container
+- C. Ephemeral Container
+- D. Job Container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
