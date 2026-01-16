@@ -4803,3 +4803,19 @@
 </details>
 
 ---
+
+**What is the primary purpose of the Kubernetes API server in the control plane architecture?**
+
+- A. To run containerized applications directly 
+- B. To schedule Pods onto available worker nodes
+- C. To validate and process REST requests for API objects
+- D. To manage network traffic between Pods
+- E. To store cluster state in a time-series database
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
