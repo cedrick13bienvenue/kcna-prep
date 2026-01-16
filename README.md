@@ -4819,3 +4819,19 @@
 </details>
 
 ---
+
+**When a Pod is scheduled, what is the primary factor the kube-scheduler considers from the Pod's specification?**
+
+- A. Container image version
+- B. restartPolicy
+- C. Resource requests and limits
+- D. serviceAccountName
+- E. labels
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
