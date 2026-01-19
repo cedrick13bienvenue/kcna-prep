@@ -4915,3 +4915,19 @@
 </details>
 
 ---
+
+**In Kubernetes, what is the primary role of Role-Based Access Control (RBAC)?**
+
+- A. To define network traffic flow between Pods
+- B. To manage secure storage of sensitive data like passwords
+- C. To control user and service account access to API resources
+- D. To assign static IP addresses to Services
+- E. To encrypt container images at rest
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
