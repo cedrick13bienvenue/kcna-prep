@@ -4867,3 +4867,19 @@
 </details>
 
 ---
+
+**What is the main advantage of using a declarative approach (e.g., YAML manifests) to manage Kubernetes resources?**
+
+- A. It allows for more complex scripting logic
+- B. It enables direct manipulation of etcd data
+- C. It focuses on what desired state, not how to achieve it
+- D. It provides faster API response times
+- E. It simplifies single-container Pod deployments only
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
