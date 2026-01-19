@@ -4835,3 +4835,19 @@
 </details>
 
 ---
+
+**Which component is NOT part of the Kubernetes control plane?**
+
+- A. kube-apiserver
+- B. etcd
+- C. kube-scheduler
+- D. kube-proxy
+- E. kube-controller-manager
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
