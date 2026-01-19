@@ -4883,3 +4883,19 @@
 </details>
 
 ---
+
+**Why is container orchestration essential for managing microservices at scale?**
+
+- A. It simplifies writing microservice code
+- B. It automatically converts monolithic apps to microservices
+- C. It handles service discovery, scaling, and fault tolerance
+- D. It provides a centralized logging solution by default
+- E. It guarantees zero-downtime deployments
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
