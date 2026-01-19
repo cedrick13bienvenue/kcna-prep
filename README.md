@@ -4931,3 +4931,19 @@
 </details>
 
 ---
+
+**What is the function of a NetworkPolicy in Kubernetes?**
+
+- A. To provide a stable DNS name for a set of Pods
+- B. To manage external access to services via HTTP/S routing
+- C. To define how Pods are allowed to communicate with each other
+- D. To assign IP addresses to newly created Pods
+- E. To encrypt traffic between services in a mesh
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
