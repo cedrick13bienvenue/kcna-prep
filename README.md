@@ -4851,3 +4851,19 @@
 </details>
 
 ---
+
+**What core benefit does containerization (e.g., using Docker or containerd) provide for application deployment?**
+
+- A. Automatic scaling of applications
+- B. Abstraction of the underlying operating system and kernel
+- C. Consistent runtime environment across different machines
+- D. Built-in service discovery and load balancing
+- E. Secure by default inter-container communication
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
