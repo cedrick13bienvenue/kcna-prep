@@ -4899,3 +4899,19 @@
 </details>
 
 ---
+
+**Which part of the Container Runtime Interface (CRI) specification is containerd primarily responsible for implementing?**
+
+- A. Image distribution and storage
+- B. Low-level container execution and lifecycle management
+- C. Network namespace creation and IP address assignment
+- D. Defining container image format standards
+- E. Implementing pod-level resource sharing
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
