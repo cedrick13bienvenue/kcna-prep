@@ -5043,3 +5043,19 @@
 </details>
 
 ---
+
+**In a typical cloud native environment, which persona is most concerned with ensuring application uptime, performance, and managing incident response?**
+
+- A. Application Developer
+- B. Platform Consumer
+- C. Site Reliability Engineer (SRE) / Platform Operator
+- D. Business Analyst
+- E. End User
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
