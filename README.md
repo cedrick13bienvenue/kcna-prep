@@ -4947,3 +4947,19 @@
 </details>
 
 ---
+
+**What fundamental problem does a Service Mesh like Istio or Linkerd aim to solve in a microservices architecture?**
+
+- A. Simplifying container image building
+- B. Automating infrastructure provisioning
+- C. Managing and observing inter-service communication
+- D. Providing persistent storage for stateful applications
+- E. Abstracting server management
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
