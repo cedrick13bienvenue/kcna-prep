@@ -4979,3 +4979,19 @@
 </details>
 
 ---
+
+**Which security mechanism in Kubernetes is best suited for providing an identity to processes running in Pods to interact with the API server?**
+
+- A. NetworkPolicy
+- B. SecurityContext
+- C. ServiceAccount
+- D. PodSecurityPolicy (deprecated) / PodSecurityAdmission
+- E. TLS Certificates for etcd
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
