@@ -5027,3 +5027,19 @@
 </details>
 
 ---
+
+**What is the primary role of the Cloud Native Computing Foundation (CNCF) in the Kubernetes ecosystem?**
+
+- A. To directly employ Kubernetes core developers
+- B. To sell Kubernetes enterprise support subscriptions
+- C. To foster and sustain an ecosystem of open source projects
+- D. To define mandatory cloud provider APIs
+- E. To own the intellectual property of Linux
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
