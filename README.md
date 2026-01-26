@@ -5011,3 +5011,19 @@
 </details>
 
 ---
+
+**How does Serverless (e.g., FaaS like AWS Lambda or Knative Serving) primarily differ from traditional PaaS offerings?**
+
+- A. Serverless does not use containers
+- B. Serverless applications cannot be stateful
+- C. Serverless abstracts away all underlying server management
+- D. PaaS does not offer auto-scaling capabilities
+- E. Serverless is only for event-driven functions
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
