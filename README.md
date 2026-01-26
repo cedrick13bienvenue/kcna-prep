@@ -5059,3 +5059,19 @@
 </details>
 
 ---
+
+**Why are Open Standards, like those defined by the Open Container Initiative (OCI), critical for the cloud native ecosystem?**
+
+- A. They guarantee better application performance
+- B. They enforce specific vendor implementations
+- C. They promote interoperability and prevent vendor lock-in
+- D. They reduce the need for security patching
+- E. They simplify the user interface of cloud platforms
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
