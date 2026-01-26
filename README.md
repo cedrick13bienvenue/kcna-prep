@@ -4963,3 +4963,19 @@
 </details>
 
 ---
+
+**A stateful application requires storage that persists even if its Pod is rescheduled to another Node. Which Kubernetes objects are essential for this?**
+
+- A. ConfigMap and Secret
+- B. PersistentVolume (PV) and PersistentVolumeClaim (PVC)
+- C. EphemeralVolume and HostPath volume
+- D. Service and EndpointSlice
+- E. Job and CronJob
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
