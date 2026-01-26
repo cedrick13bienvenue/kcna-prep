@@ -4995,3 +4995,19 @@
 </details>
 
 ---
+
+**What is the primary goal of Horizontal Pod Autoscaling (HPA) in Kubernetes?**
+
+- A. To increase the resource limits of existing Pods
+- B. To adjust the number of Pod replicas based on metrics
+- C. To add or remove Nodes from the cluster
+- D. To automatically update container images
+- E. To manage storage capacity for stateful sets
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
