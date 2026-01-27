@@ -5075,3 +5075,19 @@
 </details>
 
 ---
+
+**Which type of telemetry data is most suitable for understanding the sequence of operations and latency across multiple microservices for a single user request?**
+
+- A. Logs
+- B. Metrics
+- C. Traces (Distributed Tracing)
+- D. Events
+- E. Alerts
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
