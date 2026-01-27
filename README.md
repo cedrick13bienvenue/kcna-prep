@@ -5139,3 +5139,19 @@
 </details>
 
 ---
+
+**Which principle is central to the GitOps methodology for application and infrastructure deployment?**
+
+- A. Using imperative scripts stored in Git
+- B. Managing only stateless applications via Git
+- C. Treating Git as the single source of truth for desired state
+- D. Requiring manual approval for all Git commits
+- E. Using Git LFS for storing container images
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
