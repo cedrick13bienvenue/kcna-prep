@@ -5107,3 +5107,19 @@
 </details>
 
 ---
+
+**In Prometheus, what is an "exporter"?**
+
+- A. A component that sends alerts to notification channels
+- B. A database that stores long-term metric data
+- C. A client library for instrumenting application code
+- D. A piece of software that exposes metrics from third-party systems
+- E. A dashboard for visualizing metrics
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
