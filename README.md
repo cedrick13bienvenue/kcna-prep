@@ -5171,3 +5171,19 @@
 </details>
 
 ---
+
+**What is the primary benefit of implementing CI/CD pipelines for application delivery?**
+
+- A. It eliminates the need for testing
+- B. It reduces infrastructure costs significantly
+- C. It enables faster, more reliable software releases
+- D. It automatically writes application code
+- E. It replaces the need for version control systems
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
