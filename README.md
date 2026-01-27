@@ -5123,3 +5123,19 @@
 </details>
 
 ---
+
+**What is a key challenge in cost management specifically related to shared Kubernetes clusters?**
+
+- A. High cost of Kubernetes control plane components
+- B. Difficulty in attributing resource usage to specific teams/apps
+- C. Inability to use reserved instances with Kubernetes
+- D. Lack of tools for visualizing overall cloud spend
+- E. Fixed pricing models for all Kubernetes services
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
