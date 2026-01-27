@@ -5091,3 +5091,19 @@
 </details>
 
 ---
+
+**Prometheus is primarily designed for which type of observability data?**
+
+- A. Distributed tracing
+- B. Log aggregation and analysis
+- C. Time-series metrics collection and alerting
+- D. Security auditing and compliance reporting
+- E. Real-time user monitoring (RUM)
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
