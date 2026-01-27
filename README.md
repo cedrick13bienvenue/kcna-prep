@@ -5155,3 +5155,19 @@
 </details>
 
 ---
+
+**In a CI/CD pipeline for a cloud native application, what is the typical output of the "Continuous Integration" (CI) phase?**
+
+- A. A running application in production
+- B. A new Kubernetes cluster provisioned
+- C. A tested and versioned container image/artifact
+- D. A detailed cost analysis report
+- E. A set of user stories for the next sprint
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
