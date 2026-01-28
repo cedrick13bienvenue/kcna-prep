@@ -5219,3 +5219,19 @@
 </details>
 
 ---
+
+**What is the main purpose of a ServiceAccount in Kubernetes when interacting with the API server?**
+
+- A. To define network access policies for Pods
+- B. To provide an identity for Pods to authenticate to the API
+- C. To store sensitive credentials for applications
+- D. To group users for applying permissions
+- E. To manage DNS records for services
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
