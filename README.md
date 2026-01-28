@@ -5267,3 +5267,19 @@
 </details>
 
 ---
+
+**Which OCI specification defines the format of a container image?**
+
+- A. Runtime Specification
+- B. Image Specification
+- C. Distribution Specification
+- D. Network Specification
+- E. Storage Specification
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
