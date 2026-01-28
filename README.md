@@ -5187,3 +5187,19 @@
 </details>
 
 ---
+
+**What does a ReplicaSet ensure in Kubernetes?**
+
+- A. That a Pod runs on every node
+- B. That a certain number of Pod replicas are running
+- C. That Pods have stable network identifiers
+- D. That external traffic can reach the Pods
+- E. That Pods are scheduled according to affinity rules
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
