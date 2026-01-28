@@ -5283,3 +5283,19 @@
 </details>
 
 ---
+
+**What is a key difference between kubectl apply -f <filename> and kubectl create -f <filename>?**
+
+- A. apply is declarative, create is imperative
+- B. create can update existing resources, apply cannot
+- C. apply ignores existing resources, create fails if they exist
+- D. apply stores last-applied-configuration, create does not
+- E. create is idempotent, apply is not
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
