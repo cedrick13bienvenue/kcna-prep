@@ -5203,3 +5203,19 @@
 </details>
 
 ---
+
+**Which of the following is NOT a core characteristic of cloud native architectures?**
+
+- A. Microservices
+- B. Containers
+- C. Monolithic application design
+- D. DevOps practices
+- E. Automation
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
