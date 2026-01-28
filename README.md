@@ -5235,3 +5235,19 @@
 </details>
 
 ---
+
+**If you need to run a batch job that completes and then terminates, which Kubernetes workload resource is most suitable?**
+
+- A. Deployment
+- B. StatefulSet
+- C. DaemonSet
+- D. Job
+- E. Service
+
+<details><summary>Answer</summary>
+
+**Correct answer:** D
+
+</details>
+
+---
