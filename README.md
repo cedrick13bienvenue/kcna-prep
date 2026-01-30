@@ -5395,3 +5395,19 @@
 </details>
 
 ---
+
+**In Prometheus, what does the up metric typically indicate for a scraped target?**
+
+- A. The version number of the target application.
+- B. The number of active user connections to the target.
+- C. Whether Prometheus was able to successfully scrape the target.
+- D. The CPU utilization of the target.
+- E. The total uptime of the target since it started.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
