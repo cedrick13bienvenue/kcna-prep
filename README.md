@@ -5379,3 +5379,19 @@
 </details>
 
 ---
+
+**Which statement accurately describes a key aspect of "observability" in cloud native systems?**
+
+- A. It is solely focused on collecting system logs.
+- B. It primarily relies on manual health checks by operators.
+- C. It enables understanding a system's internal state from its outputs.
+- D. It is achieved by using proprietary monitoring tools.
+- E. It is only relevant for production environments.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
