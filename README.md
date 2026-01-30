@@ -5299,3 +5299,19 @@
 </details>
 
 ---
+
+**In the context of container security, what does "least privilege" primarily refer to?**
+
+- A. Running containers with minimal resource requests
+- B. Granting containers only the permissions they absolutely need
+- C. Using the smallest possible base container images
+- D. Limiting network access to containers
+- E. Encrypting all data within the container
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
