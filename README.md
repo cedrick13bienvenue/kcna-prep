@@ -5315,3 +5315,19 @@
 </details>
 
 ---
+
+**What is the primary function of kube-proxy when a Service of type ClusterIP is created?**
+
+- A. It assigns an IP address from the cluster's Pod CIDR.
+- B. It modifies iptables or IPVS rules on nodes to route traffic.
+- C. It creates a DNS A record for the Service.
+- D. It terminates TLS connections for the Service.
+- E. It exposes the Service on a port on each Node.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
