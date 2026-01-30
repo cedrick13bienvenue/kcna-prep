@@ -5363,3 +5363,19 @@
 </details>
 
 ---
+
+**What is a primary characteristic of Vertical Pod Autoscaling (VPA)?**
+
+- A. It adjusts the number of Pod replicas.
+- B. It adjusts the CPU and memory requests and limits for Pods.
+- C. It adds or removes Nodes from the cluster.
+- D. It automatically selects the optimal storage class.
+- E. It scales the number of available IP addresses.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
