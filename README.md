@@ -5331,3 +5331,19 @@
 </details>
 
 ---
+
+**What core benefit does a StatefulSet provide over a Deployment for applications like databases?**
+
+- A. Automatic rolling updates by default
+- B. Simpler YAML configuration for Pod templates
+- C. Stable, unique network identifiers and persistent storage
+- D. Support for hostNetwork: true
+- E. Higher number of allowed replicas
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
