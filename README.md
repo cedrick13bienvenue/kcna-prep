@@ -5347,3 +5347,19 @@
 </details>
 
 ---
+
+**What is the primary role of the "Controller Manager" in Kubernetes?**
+
+- A. Manages user authentication and authorization
+- B. Exposes the Kubernetes API to external clients
+- C. Runs various controllers that regulate cluster state
+- D. Schedules Pods onto appropriate Nodes
+- E. Stores all cluster configuration data
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
