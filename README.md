@@ -5411,3 +5411,19 @@
 </details>
 
 ---
+
+**From a FinOps perspective in a Kubernetes environment, why is tagging resources (e.g., with labels) important?**
+
+- A. It improves the scheduling efficiency of Pods.
+- B. It enables more accurate cost allocation and showback/chargeback.
+- C. It automatically secures inter-Pod communication.
+- D. It increases the performance of PersistentVolumes.
+- E. It simplifies the process of upgrading Kubernetes.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
