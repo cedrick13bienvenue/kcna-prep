@@ -5539,3 +5539,19 @@
 </details>
 
 ---
+
+**What is the core difference between "authentication" and "authorization" in Kubernetes security?**
+
+- A. Authentication is for users, authorization for service accounts.
+- B. Authentication verifies identity, authorization verifies permissions.
+- C. Authorization happens before authentication in the API request flow.
+- D. Authentication uses Roles, authorization uses RoleBindings.
+- E. Authorization uses client certificates, authentication uses tokens.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
