@@ -5523,3 +5523,19 @@
 </details>
 
 ---
+
+**When instrumenting an application for Prometheus, what is the typical way metrics are exposed by the application?**
+
+- A. Writing metrics directly to Prometheus's storage.
+- B. Pushing metrics to a Prometheus Pushgateway.
+- C. Exposing an HTTP endpoint (e.g., /metrics) for scraping.
+- D. Sending metrics via syslog to a collector.
+- E. Using SNMP traps to send metric data.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
