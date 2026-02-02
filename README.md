@@ -5443,3 +5443,19 @@
 </details>
 
 ---
+
+**Which of these is a core component of a "Continuous Delivery" pipeline but NOT necessarily "Continuous Deployment"?**
+
+- A. Automated building of code into an artifact.
+- B. Automated execution of unit and integration tests.
+- C. Automated deployment to a staging/QA environment.
+- D. Automated deployment to the production environment.
+- E. Manual approval gate before production deployment.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** E
+
+</details>
+
+---
