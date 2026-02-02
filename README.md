@@ -5459,3 +5459,19 @@
 </details>
 
 ---
+
+**What Kubernetes feature allows you to define constraints on which Nodes your Pods can run, based on Node labels?**
+
+- A. NetworkPolicy
+- B. ResourceQuota
+- C. nodeSelector / nodeAffinity
+- D. PodDisruptionBudget
+- E. LimitRange
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
