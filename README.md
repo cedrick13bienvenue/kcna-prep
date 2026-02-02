@@ -5427,3 +5427,19 @@
 </details>
 
 ---
+
+**What is a key advantage of using GitOps for managing Kubernetes deployments compared to traditional CI/CD push-based deployments?**
+
+- A. GitOps pipelines are significantly faster to execute.
+- B. GitOps eliminates the need for container registries.
+- C. GitOps enhances security by reducing direct cluster access for CI.
+- D. GitOps does not require YAML manifests for resources.
+- E. GitOps is only suitable for small-scale deployments.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
