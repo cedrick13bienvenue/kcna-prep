@@ -5475,3 +5475,19 @@
 </details>
 
 ---
+
+**Which of these is a primary goal of the CNCF's "Trail Map" for cloud native adoption?**
+
+- A. To mandate specific vendor products for each stage.
+- B. To provide a prescriptive path for building cloud native apps.
+- C. To offer a recommended journey and project choices for adopters.
+- D. To rank cloud providers based on their Kubernetes offerings.
+- E. To certify individual developers as cloud native experts.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
