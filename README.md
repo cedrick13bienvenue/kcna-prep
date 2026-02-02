@@ -5507,3 +5507,19 @@
 </details>
 
 ---
+
+**What is the role of an "Ingress Controller" in a Kubernetes cluster?**
+
+- A. It assigns IP addresses to Pods.
+- B. It manages storage volumes for stateful applications.
+- C. It implements the rules defined in Ingress resources.
+- D. It monitors the health of Nodes in the cluster.
+- E. It encrypts communication between control plane components.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
