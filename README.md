@@ -5491,3 +5491,19 @@
 </details>
 
 ---
+
+**What is the primary motivation behind using "Serverless Functions" (FaaS)?**
+
+- A. To achieve higher compute density on physical servers.
+- B. To run long-lived, stateful batch processing jobs.
+- C. To execute event-driven code without managing infrastructure.
+- D. To gain fine-grained control over OS-level configurations.
+- E. To build complex, monolithic application backends.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
