@@ -5615,3 +5615,18 @@
 </details>
 
 ---
+
+**Which component acts as the central control plane and exposes the Kubernetes API?**
+
+- A. kube-proxy
+- B. kube-apiserver
+- C. etcd
+- D. controller-manager
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
