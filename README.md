@@ -5555,3 +5555,18 @@
 </details>
 
 ---
+
+**What is the smallest and simplest deployable unit object created and managed by Kubernetes?**
+
+- A. Node.
+- B. Container.
+- C. Pod.
+- D. Deployment.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
