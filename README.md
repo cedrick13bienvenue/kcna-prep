@@ -5585,3 +5585,18 @@
 </details>
 
 ---
+
+**Which Kubernetes component is responsible for watching for newly created Pods and assigning them to Nodes?**
+
+- A. kube-apiserver.
+- B. etcd.
+- C. kube-scheduler.
+- D. kubelet.
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
