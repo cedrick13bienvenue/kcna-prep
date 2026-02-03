@@ -5600,3 +5600,18 @@
 </details>
 
 ---
+
+**What is the primary function of the kubelet component?**
+
+- A. Storing cluster state
+- B. Scheduling Pods onto Nodes
+- C. Managing the container runtime
+- D. Exposing the Kubernetes API
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
