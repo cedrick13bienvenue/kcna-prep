@@ -5645,3 +5645,18 @@
 </details>
 
 ---
+
+**Which Kubernetes resource is typically used to manage stateless applications by ensuring a specified number of Pod replicas are running?**
+
+- A. StatefulSet
+- B. DaemonSet
+- C. Deployment
+- D. Job
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
