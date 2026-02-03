@@ -5630,3 +5630,18 @@
 </details>
 
 ---
+
+**What is the primary role of etcd in a Kubernetes cluster?**
+
+- A. Running application containers
+- B. Scheduling workloads
+- C. Storing the cluster state
+- D. Managing network policies
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
