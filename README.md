@@ -5660,3 +5660,18 @@
 </details>
 
 ---
+
+**What type of software package bundles application code with all its dependencies, libraries, and configuration files?**
+
+- A. Virtual Machine
+- B. Container
+- C. Operating System
+- D. Serverless Function
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
