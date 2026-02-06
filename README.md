@@ -5690,3 +5690,18 @@
 </details>
 
 ---
+
+**What is the main benefit of using container orchestration systems like Kubernetes?**
+
+- A. Simplifying code writing
+- B. Automating deployment & scaling
+- C. Reducing storage costs
+- D. Improving network latency
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
