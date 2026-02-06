@@ -5735,3 +5735,18 @@
 </details>
 
 ---
+
+**What Kubernetes object provides a stable IP address and DNS name for accessing a set of Pods?**
+
+- A. Ingress
+- B. Service
+- C. EndpointSlice
+- D. NetworkPolicy
+
+<details><summary>Answer</summary>
+
+**Correct answer:** B
+
+</details>
+
+---
