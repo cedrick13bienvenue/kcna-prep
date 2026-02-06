@@ -5675,3 +5675,18 @@
 </details>
 
 ---
+
+**In Kubernetes, what is the process of assigning Pods to Nodes called?**
+
+- A. Replication
+- B. Orchestration
+- C. Scheduling
+- D. Deployment
+
+<details><summary>Answer</summary>
+
+**Correct answer:** C
+
+</details>
+
+---
